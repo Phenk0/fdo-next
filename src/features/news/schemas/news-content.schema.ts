@@ -5,12 +5,6 @@ const paragraphSchema = z.object({
   text: z.string(),
 });
 
-const headingSchema = z.object({
-  type: z.literal("heading"),
-  level: z.union([z.literal(2), z.literal(3)]),
-  text: z.string(),
-});
-
 const imageGallerySchema = z.object({
   type: z.literal("imageGallery"),
   images: z.array(
@@ -36,7 +30,6 @@ const videoBlockSchema = z.object({
 export const newsContentSchema = z.array(
   z.discriminatedUnion("type", [
     paragraphSchema,
-    headingSchema,
     imageGallerySchema,
     pdfSchema,
     videoBlockSchema,

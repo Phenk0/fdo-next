@@ -3,35 +3,10 @@ import { z } from "zod";
 
 import { NewsStatus, NewsTag } from "@/generated/prisma/enums";
 import { prisma } from "@/lib/prisma";
-
-const allowedOrigins = new Set([
-  "https://do-gnpu.netlify.app",
-  "https://fdo.gnpu.edu.ua",
-  "http://localhost:5173",
-]);
-
-const getCorsHeaders = (request: Request) => {
-  const origin = request.headers.get("Origin");
-
-  const headers = new Headers({
-    "Access-Control-Allow-Methods": "GET, OPTIONS",
-    "Access-Control-Allow-Headers": "Content-Type",
-    "Access-Control-Max-Age": "86400",
-    Vary: "Origin",
-  });
-
-  if (origin && allowedOrigins.has(origin)) {
-    headers.set("Access-Control-Allow-Origin", origin);
-  }
-
-  return headers;
-};
+import { createCorsPreflightResponse, getCorsHeaders } from "@/lib/cors";
 
 export function OPTIONS(request: Request) {
-  return new Response(null, {
-    status: 204,
-    headers: getCorsHeaders(request),
-  });
+  return createCorsPreflightResponse(request);
 }
 
 const querySchema = z.object({

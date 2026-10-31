@@ -20,9 +20,8 @@ model News {
   sourceUrl String?
   status    NewsStatus @default(DRAFT)
   tags      NewsTag[]  @default([])
-  createdAt DateTime
   createdAt DateTime   @default(now())
-  // updatedAt DateTime   @updatedAt
+  updatedAt DateTime   @updatedAt
 
   @@index([status, createdAt])
 }

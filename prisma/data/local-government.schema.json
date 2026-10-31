@@ -1,0 +1,66 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "LocalGovernmentData",
+  "description": "JSON schema for local-government.json containing student government data for preschool and physical education specialties.",
+  "type": "object",
+  "properties": {
+    "preschool": {
+      "type": "array",
+      "description": "List of student governors / members for preschool education",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Full name of the student"
+          },
+          "jobTitle": {
+            "type": "string",
+            "description": "Job title or role in student government"
+          },
+          "qualification": {
+            "type": "string",
+            "description": "Course and group qualification"
+          },
+          "imageUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL of the profile image"
+          }
+        },
+        "required": ["imageUrl"],
+        "additionalProperties": false
+      }
+    },
+    "physical": {
+      "type": "array",
+      "description": "List of student governors / members for physical education",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "Full name of the student"
+          },
+          "jobTitle": {
+            "type": "string",
+            "description": "Job title or role in student government"
+          },
+          "qualification": {
+            "type": "string",
+            "description": "Course and group qualification"
+          },
+          "imageUrl": {
+            "type": "string",
+            "format": "uri",
+            "description": "URL of the profile image"
+          }
+        },
+        "required": ["name", "jobTitle", "qualification", "imageUrl"],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": ["preschool", "physical"],
+  "additionalProperties": false
+}

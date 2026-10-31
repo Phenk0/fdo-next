@@ -1,0 +1,1215 @@
+{
+  "ROKPreschool2024": [
+    {
+      "trainingCategory": "ЦИКЛ ЗАГАЛЬНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "1",
+          "component": "Історія та культура України",
+          "syllabus": "https://drive.google.com/file/d/13Wmlwit_VQgKj0s7-ZOoc_Cxr-Es-A2U/view",
+          "program": "https://drive.google.com/file/d/1Hyl2Ej7NBbCZ7bf8DwZk1rJAO1bzR3VT/view"
+        },
+        {
+          "code": "2",
+          "component": "Основи екології",
+          "syllabus": "https://drive.google.com/file/d/1v_JeRnoT84Twer6P1RREd09dYvHJB41B/view",
+          "program": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/discipline%2Fregulatory-ok%2Fpreschool2024%2Frok2024-program-2.pdf?alt=media"
+        },
+        {
+          "code": "3",
+          "component": "Фізичне виховання",
+          "syllabus": "https://drive.google.com/file/d/1QNW5OjFy4_SUYo6DNPX50eG7hVOfHZep/view",
+          "program": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/discipline%2Fregulatory-ok%2Fpreschool2024%2Frok2024-program-3.pdf?alt=media"
+        },
+        {
+          "code": "4",
+          "component": "Іноземна мова за професійним спрямуванням",
+          "syllabus": "https://drive.google.com/file/d/1HBEWvoRkBK4Nm9jGeMuuphCwxNw5V1yX/view",
+          "program": "https://drive.google.com/file/d/1Vm3qWHePqLAFc42tpZ_e7YCbcmuoUO1s/view"
+        },
+        {
+          "code": "5",
+          "component": "Українська мова за професійним спрямуванням",
+          "syllabus": "https://drive.google.com/file/d/1Jy9LAHq6TsM88CQBy5j8jYfPhzKHnvZU/view",
+          "program": "https://drive.google.com/file/d/1NoH9gsUqVU5aOR3eo0R4DJR6NlB0nkuF/view"
+        },
+        {
+          "code": "6",
+          "component": "Філософія",
+          "syllabus": "https://drive.google.com/file/d/1XWGtAjdVfgsXStSSQZdJ635hBIgtoT5r/view",
+          "program": "https://drive.google.com/file/d/1eZvquCFY0PwWeSLRzHrqPFEf4zV2cgM-/view"
+        },
+        {
+          "code": "7",
+          "component": "Безпека життєдіяльності",
+          "syllabus": "https://drive.google.com/file/d/1DNim0qqjzpDtH3NNISBus8XLdp98vZq3/view",
+          "program": "https://drive.google.com/file/d/1bw_dTNyNUy58GAL879EPR2zhrwsU6-wl/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ЦИКЛ ПРОФЕСІЙНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "8",
+          "component": "Анатомо-фізіологічні та психологічні основи здоров'я дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1bubKnq34hksXl0SiUbsathDv1Ps-i3t5/view",
+          "program": "https://drive.google.com/file/d/1FyUmPzWnZvA97HIsGbiV4ZZSMum10rjM/view"
+        },
+        {
+          "code": "9",
+          "component": "Педагогіка загальна",
+          "syllabus": "https://drive.google.com/file/d/1Axvd8zpN6wHinKp9d1wyg11wkOl7bxyt/view",
+          "program": "https://drive.google.com/file/d/1LN5p9d8blwO5B43au5wEVhJLgerIv4tZ/view"
+        },
+        {
+          "code": "10",
+          "component": "Вступ до спеціальності",
+          "syllabus": "https://drive.google.com/file/d/12fIZNEMMly80P0n7ifBoYWEO4fp8E6_N/view",
+          "program": "https://drive.google.com/file/d/1Edz8AQiXtHND-wn6NKpVsEoS4xetQGx8/view"
+        },
+        {
+          "code": "11",
+          "component": "Психологія загальна",
+          "syllabus": "https://drive.google.com/file/d/1E_69Y40gHcKbRUcSngsISplE3b_pgxC9/view",
+          "program": "https://drive.google.com/file/d/1morB98pqUoPqSLnckwsiK9ABeiFRRRrr/view"
+        },
+        {
+          "code": "12",
+          "component": "Культура мовлення та виразне читання з дитячою літературою",
+          "syllabus": "https://drive.google.com/file/d/1Wx0v6M4l9gfa1T9ugiQ0W9OfpD4k1BVy/view",
+          "program": "https://drive.google.com/file/d/1jSOMJzIWwnzyaDnY2oTep_nt4ufUz5EE/view"
+        },
+        {
+          "code": "13",
+          "component": "Педагогіка дошкільна",
+          "syllabus": "https://drive.google.com/file/d/15Cvn483pQz0o7OpMyuEojlZ_tkLcSfv8/view",
+          "program": "https://drive.google.com/file/d/1j-enWvyfJ-Ueaq9hmOHWTg8NPBqTh49O/view"
+        },
+        {
+          "code": "14",
+          "component": "Дошкільна лінгводидактика",
+          "syllabus": "https://drive.google.com/file/d/1ZT0yLk3xtwWkfpj2UnuJo2f55bFNR7y3/view",
+          "program": "https://drive.google.com/file/d/1PDeke2U5hVUk_9PUy5dEi6ft07J9GiiG/view"
+        },
+        {
+          "code": "15",
+          "component": "Основи природознавства з методикою проекологічної освіти дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1PHJzhpA66FsY3f8xO78eMmGMIv3EgFJp/view",
+          "program": "https://drive.google.com/file/d/1KijPZtCfalXWXaSZ0Pkd8se0QfR1VqWH/view"
+        },
+        {
+          "code": "16",
+          "component": "Теорія і методика фізичного виховання дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1FH6xU0hrqa0TZDOLR9FjBREo0FACbiMK/view",
+          "program": "https://drive.google.com/file/d/1B2Dd3FzxUX4GY33bhsFOT51LYxhB5efi/view"
+        },
+        {
+          "code": "17",
+          "component": "Теорія і методика мистецької освіти дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1YZZyV9gaXV9KIlN-I4qq4fQPomInyPSt/view",
+          "program": "https://drive.google.com/file/d/1Z6ZuhZ5cruduDf1GBQ7-gdrhYjIf0r6x/view"
+        },
+        {
+          "code": "18",
+          "component": "Психолого-педагогічний супровід дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1S8SI3HeAwAUroFUJ-HLoCscAKdVYaIPO/view",
+          "program": "https://drive.google.com/file/d/1JdxbDyFV1QODA_VzVV4ri4sviO7xCNq0/view"
+        },
+        {
+          "code": "19",
+          "component": "Основи наукових досліджень",
+          "syllabus": "https://drive.google.com/file/d/1bbE6TVSnOG5w3zhKVOR9G-8olKQRnqvf/view",
+          "program": "https://drive.google.com/file/d/1YJpM4CdeDQkozUsHc-0CPwAykN68A3LD/view"
+        },
+        {
+          "code": "20",
+          "component": "Психологія дитяча",
+          "syllabus": "https://drive.google.com/file/d/1jgw20WBY53yNPoxWAa92ML4AZlL2Fsv5/view",
+          "program": "https://drive.google.com/file/d/1DkhoIuVGt6D1Jz12NIGdj2i1Y5pV33wL/view"
+        },
+        {
+          "code": "21",
+          "component": "Основи інклюзивної освіти",
+          "syllabus": "https://drive.google.com/file/d/1eHTsgkFIyWtkTQD1H7C0ilXzK34A9xzD/view",
+          "program": "https://drive.google.com/file/d/1TbuiogQm06Zpfs5rjoLyDYxdQLatOeGy/view"
+        },
+        {
+          "code": "22",
+          "component": "Курсова робота з психології дитячої",
+          "syllabus": "https://drive.google.com/file/d/1ne_u2Z4pYTPlcWDn8YHGThKaiqjXw-A8/view",
+          "program": "https://drive.google.com/file/d/16N-N-vv0g6A1QPUE59M32Fr_4j1IM0lo/view"
+        },
+        {
+          "code": "23",
+          "component": "Теорія і методика формування елементарних математичних уявлень дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1zNmqqnJbztwyx7_PGF9EFuJuplqkmuo0/view",
+          "program": "https://drive.google.com/file/d/1gOh7VwFeSAGopLKv-VuwOV9zHKQNBluT/view"
+        },
+        {
+          "code": "24 Пс",
+          "component": "Соціальна психологія",
+          "syllabus": "https://drive.google.com/file/d/1DrdzN5ScaWd0L3lPTBdI4JdAr18k8hR3/view",
+          "program": "https://drive.google.com/file/d/1kdP9dMAbDSamhrwj_wf3XnHu1NEodabE/view"
+        },
+        {
+          "code": "24 Л",
+          "component": "Основи логопедії з діагностикою порушень мовлення у дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1Rhsx9GQlDfcPb8_eDfFq5ExQuxGAfOkV/view",
+          "program": "https://drive.google.com/file/d/1YDv0Lg8aldXJUhh_Jn5dSSx50bmZ_alx/view"
+        },
+        {
+          "code": "25",
+          "component": "Методика ознайомлення дітей дошкільного віку із соціумом",
+          "syllabus": "https://drive.google.com/file/d/1zajWdd2KA46Ya7igoE7lRU56REI_YojD/view",
+          "program": "https://drive.google.com/file/d/1f4Pp5bkQKz4GK64ROH94AwOLoK3nh4Cj/view"
+        },
+        {
+          "code": "26 Пс",
+          "component": "Спеціальна педагогіка і психологія",
+          "syllabus": "https://drive.google.com/file/d/1BhmDKxSuzSCF4gS5UDLCM3X7QGkZ9YRe/view",
+          "program": "https://drive.google.com/file/d/1-uOTXO9VeEONGg9m82tKcdscDODC1WPm/view"
+        },
+        {
+          "code": "26 Л",
+          "component": "Спеціальна педагогіка і психологія",
+          "syllabus": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/discipline%2Fregulatory-ok%2Fpreschool2024%2Frok2024-syllabus-26L.pdf?alt=media",
+          "program": "https://drive.google.com/file/d/1v7HppTdM0zlyZYMS1kBLrb2yXsizZJFF/view"
+        },
+        {
+          "code": "27",
+          "component": "Курсова робота з педагогіки дошкільної та фахових методик",
+          "syllabus": "https://drive.google.com/file/d/139oXg8_qIkDpoe0mglhMxkfIyEQrr_RJ/view",
+          "program": "https://drive.google.com/file/d/1S8OWy0HzjezEAj8Ps5XGXZoAD2FTfu5e/view"
+        },
+        {
+          "code": "28 Пс",
+          "component": "Психологія сім'ї",
+          "syllabus": "https://drive.google.com/file/d/1D4tQ_X_mCVaKWKDutAoLMfGFVlr_cY_u/view",
+          "program": "https://drive.google.com/file/d/1FPPqtfv0Cnu6OmboUH6hTOsWJUVgC5av/view"
+        },
+        {
+          "code": "28 Л",
+          "component": "Теорія та методика виховання дітей з порушеннями мовлення",
+          "syllabus": "https://drive.google.com/file/d/1Dqxl0A3Nugt1M1QWtcCZwtmPhzcG9d_t/view",
+          "program": "https://drive.google.com/file/d/1u6DjPQi5vu6xeF947qmC7zE5asXOMv2B/view"
+        },
+        {
+          "code": "29 Пс",
+          "component": "Основи психодіагностики та корекції",
+          "syllabus": "https://drive.google.com/file/d/15o_4FO2cHFaV4k4UlwXJHexcUfPYwgvw/view",
+          "program": "https://drive.google.com/file/d/1adaoqEKmrmchK1pBzHsqYJ9bAOW2ySJK/view"
+        },
+        {
+          "code": "29 Л",
+          "component": "Логопедія з практикумом",
+          "syllabus": "https://drive.google.com/file/d/119_V7IM6xs9fND2IKGN6_xgXGKjwgko2/view",
+          "program": "https://drive.google.com/file/d/1nattiZeeNOlFv2CD7bjeRGTz3vfY6zek/view"
+        },
+        {
+          "code": "30",
+          "component": "Основи педагогічної майстерності",
+          "syllabus": "https://drive.google.com/file/d/1CeoUzbzGePiDiZ39EbQuuXY41ZwXxzt_/view",
+          "program": "https://drive.google.com/file/d/1CthX6-Upru8r3gfGX8sU6uA-8mX806C5/view"
+        },
+        {
+          "code": "31 Пс",
+          "component": "Психологічне консультування в дошкільній освіті",
+          "syllabus": "https://drive.google.com/file/d/1YzVTLCeuNjmce7W9Ap9SEvhnho_-OfHS/view",
+          "program": "https://drive.google.com/file/d/1UTviyUzguFmHZCq7-9kpIkbeP61ocuAy/view"
+        },
+        {
+          "code": "31 Л Г",
+          "component": "Організація та планування логопедичної роботи",
+          "syllabus": "https://drive.google.com/file/d/1YrcwOpDMvxrQIY_pF7IkXPkYQGFTnACl/view",
+          "program": "https://drive.google.com/file/d/1H-reNEoqhlhGTUxw2gPr5Ky8nyND3C5s/view"
+        },
+        {
+          "code": "32 Пс",
+          "component": "Педагогічна психологія",
+          "syllabus": "https://drive.google.com/file/d/1sVL5780ildDvbrcYtq7WZ4Wz9TajMsVF/view",
+          "program": "https://drive.google.com/file/d/1T8LXA_cT_LjgGSbx3Vh8_iclqr-fOfrJ/view"
+        },
+        {
+          "code": "32 Л",
+          "component": "Спеціальна методика розвитку мовлення у дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/155eMoTjL-mmNqnDzDiPnDI3HmZF8SGiW/view",
+          "program": "https://drive.google.com/file/d/1xB5DZ0A50Bxir6hN1PJ9UykWVDSPcx09/view"
+        },
+        {
+          "code": "33",
+          "component": "Навчальна практика в ЗДО (ознайомлювальна)",
+          "syllabus": "https://drive.google.com/file/d/1SiJb-HrE8-fu2rtOHVo13XtE8t1JvniF/view",
+          "program": "https://drive.google.com/file/d/1Erk5xGTMf-ni_1abwIMzMYsE3HoIxbZ4/view"
+        },
+        {
+          "code": "34",
+          "component": "Педагогічна практика в групах дітей раннього віку",
+          "syllabus": "https://drive.google.com/file/d/1MATTfZnzoRl7POwmFE3ygX0EdbB-tJwj/view",
+          "program": "https://drive.google.com/file/d/1g0d78nDHZYhsiG1gSNF7hQ6ccjEy3u5d/view"
+        },
+        {
+          "code": "35",
+          "component": "Літня оздоровча практика в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1mECQLAwiJQup6jrSe96Z7DVhVpwQ4vGb/view",
+          "program": "https://drive.google.com/file/d/1u3tS76Hrghj3r91U67aD3y053zTM-KZl/view"
+        },
+        {
+          "code": "36",
+          "component": "Навчальна практика в групах дітей дошкільного віку",
+          "syllabus": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/discipline%2Fregulatory-ok%2Fpreschool2024%2Frok2024-syllabus-36.pdf?alt=media",
+          "program": "https://drive.google.com/file/d/15mEwRZ1DYM1OvOYB9uxSPpYn8Sshd3Vc/view"
+        },
+        {
+          "code": "37",
+          "component": "Виробнича практика в групах дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1ywiK7Zp3HanRHVz7FkTIvjLaSXCpKffO/view",
+          "program": "https://drive.google.com/file/d/1eMR3ihLJ7Nm4AEPTX9fCjz8nwxELqn1j/view"
+        },
+        {
+          "code": "38 Пс",
+          "component": "Навчальна (психолого-педагогічна) практика в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1ORZenAbYdlE3Mi10MdqWvpCRbRmEOciV/view",
+          "program": "https://drive.google.com/file/d/13QHzOu9Wl14TM1HD9wu6kmEOZYnzROmo/view"
+        },
+        {
+          "code": "38 Л",
+          "component": "Навчальна практика з логопедичного супроводу освітнього процесу в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1MGYg-b8_NmO76oQsVE9B5Ve8DsFDPuTx/view",
+          "program": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/discipline%2Fregulatory-ok%2Fpreschool2024%2Frok2024-program-38L.pdf?alt=media"
+        },
+        {
+          "code": "39 Пс",
+          "component": "Виробнича (психолого-педагогічна) практика в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1UHZek2TQa-saCP8p1RDDje_RBLUZBN8H/view",
+          "program": "https://drive.google.com/file/d/1ey52_vQf8v7uMWvD79TxxUUURzOpl0Cn/view"
+        },
+        {
+          "code": "39 Л",
+          "component": "Виробнича практика з логопедичного супроводу освітнього процесу в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/18YUGDVV3ssi1YxXiE2c2qOdIhFrfA6BF/view",
+          "program": "https://drive.google.com/file/d/16f0uXVvz2ZRfTBsMug5DUPDEqcFqjRgc/view"
+        },
+        {
+          "code": "40",
+          "component": "Кваліфікаційний іспит зі спеціальності 012 Дошкільна освіта",
+          "syllabus": "https://drive.google.com/file/d/1kNluwS9oNjrZyAY0mCyFc3g8DmSFtkRf/view",
+          "program": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/discipline%2Fregulatory-ok%2Fpreschool2024%2Frok2024-program-40.pdf?alt=media"
+        },
+        {
+          "code": "41 Пс",
+          "component": "Кваліфікаційний іспит з психолого-педагогічних дисциплін",
+          "syllabus": "https://drive.google.com/file/d/1635CrVuGJuNX-jNQZ3i2Z12c96ZqS3Y1/view",
+          "program": "https://drive.google.com/file/d/1CbUDxTePmdFK6jvEI0WzAVoaGRCBfyND/view"
+        },
+        {
+          "code": "41 Л",
+          "component": "Кваліфікаційний іспит з логопедичних дисциплін",
+          "syllabus": "https://drive.google.com/file/d/1_fOAoRiVmv8UUAnQHHg2-mXbilINCd9k/view",
+          "program": "https://drive.google.com/file/d/1ozHyOjl0YG1lZ4jqFR-S6zi7mkRnNlLw/view"
+        },
+        {
+          "code": "42 Пс",
+          "component": "Кваліфікаційна робота",
+          "syllabus": "https://drive.google.com/file/d/1x7UMB1pb3l_Vvdhi_-MN8z4fYED6ssAo/view",
+          "program": "https://drive.google.com/file/d/1DXw5Ny2cj_NHy_IZnqZ8R94dQxU7GRmf/view"
+        }
+      ]
+    }
+  ],
+  "ROKPreschool2023": [
+    {
+      "trainingCategory": "ЦИКЛ ЗАГАЛЬНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "1",
+          "component": "Історія та культура України",
+          "syllabus": "https://drive.google.com/file/d/1QOeqLURPFsrIrDQQHiS06dvRhO7XlRXq/view",
+          "program": "https://drive.google.com/file/d/1GOJwPLZaT-IP9h0tmmijbW3PYj2mJhyU/view"
+        },
+        {
+          "code": "2",
+          "component": "Основи безпеки життєдіяльності",
+          "syllabus": "https://drive.google.com/file/d/1scgcZhev2ouckGw5vMfRvjgv7qCt74UM/view",
+          "program": "https://drive.google.com/file/d/172Sh9kjNYnfE0fRAKn-S1FnIXbm25bX1/view"
+        },
+        {
+          "code": "3",
+          "component": "Основи екології",
+          "syllabus": "https://drive.google.com/file/d/1g3BG5QX1gU00tOsHJccSqR1UkElE-QI2/view",
+          "program": "https://drive.google.com/file/d/1R16eLfrz8U32WyInThjS0Wp2h0_8Cjmy/view"
+        },
+        {
+          "code": "4",
+          "component": "Філософія",
+          "syllabus": "https://drive.google.com/file/d/1-Bf7WJszdz_jEMML0tj_tZN8FhugeTQ9/view",
+          "program": "https://drive.google.com/file/d/1FMqbx6XrSdfHVOAHXy-m_0aFZpBqa4-C/view"
+        },
+        {
+          "code": "5",
+          "component": "Іноземна мова",
+          "syllabus": "https://drive.google.com/file/d/1k4laVSZBJHNvyszQWwB7hjBkVM-nip94/view",
+          "program": "https://drive.google.com/file/d/1RjvkulLRfsfHCDK4TNii4gJqFHS6BRfO/view"
+        },
+        {
+          "code": "6",
+          "component": "Українська мова за професійним спрямуванням",
+          "syllabus": "https://drive.google.com/file/d/1USE80I_GFsVqJJSsYqr3_MXe2d8EaOyw/view",
+          "program": "https://drive.google.com/file/d/1s_EgSooYSLqGlm-xG4dcHhUrgX-h4KpR/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ЦИКЛ ПРОФЕСІЙНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "7",
+          "component": "Основи здоров’я дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1M5KNYkEuodZ7MqqLP38he2Zg7iI6lZoD/view",
+          "program": "https://drive.google.com/file/d/12GMoHDMG62siPErFO87-Qs4ITKi3CJ7U/view"
+        },
+        {
+          "code": "8",
+          "component": "Педагогіка загальна",
+          "syllabus": "https://drive.google.com/file/d/1b1Yrrwr-eil38xQ95nWRfs_GL8MdPxXB/view",
+          "program": "https://drive.google.com/file/d/10vwzrnhhJ1tYY3inhqNfuL0oKBVivC-T/view"
+        },
+        {
+          "code": "9",
+          "component": "Педагогіка дошкільна зі вступом до спеціальності",
+          "syllabus": "https://drive.google.com/file/d/1coObx-duzy3OQXjFpSY9VeWWPijXLWYc/view",
+          "program": "https://drive.google.com/file/d/1ZrH6InKeYzLgCeFGEa6Xi3yASiEcTxkO/view"
+        },
+        {
+          "code": "10",
+          "component": "Психологія загальна",
+          "syllabus": "https://drive.google.com/file/d/1tRZ7RmaPRJY8woPxZNGQR5hbqCZREacb/view",
+          "program": "https://drive.google.com/file/d/1ceGvb7-Mep9GmoEB-4yYsAfm4EjuDII5/view"
+        },
+        {
+          "code": "11",
+          "component": "Культура мовлення та виразне читання з дитячою літературою",
+          "syllabus": "https://drive.google.com/file/d/1bzUybn6XrPNYA6F9J2oblzWdKtjk3hIK/view",
+          "program": "https://drive.google.com/file/d/1jK7CRgvt6eja88RME1cdhgo-Cgvd1Kda/view"
+        },
+        {
+          "code": "12",
+          "component": "Фізичне виховання",
+          "syllabus": "https://drive.google.com/file/d/1R47eCvaAPPd6uy5p3Hv7PkjnIBjIzVO5/view",
+          "program": "https://drive.google.com/file/d/1LGy1AoZjBSzDEjuXv9IK5TfRf-GPVfIR/view"
+        },
+        {
+          "code": "13",
+          "component": "Теорія і методика формування мовленнєвої та комунікативної компетентностей у дошкільників",
+          "syllabus": "https://drive.google.com/file/d/1oCHb0efylLRrYu3vQZ5Y5G1hPN-q8xtP/view",
+          "program": "https://drive.google.com/file/d/11FD7B-qZprehHGR7mQuM1-yBt--8VmFY/view"
+        },
+        {
+          "code": "14",
+          "component": "Теорія і методика формування природничо-екологічної компетентності у дошкільників",
+          "syllabus": "https://drive.google.com/file/d/1G5iN7EPqU9TldMGe-dkeSjWkKZKQZcd4/view",
+          "program": "https://drive.google.com/file/d/1hJQ-ozcaroIbpqSbPpjQoEIr8ptfMU6_/view"
+        },
+        {
+          "code": "15",
+          "component": "Теорія та методика формування рухової та здоров'язбережувальної компетентностей у дошкільників",
+          "syllabus": "https://drive.google.com/file/d/1TnTb0QklCgudp3aMKAHB6ISaMRun6PF9/view",
+          "program": "https://drive.google.com/file/d/1a7_udZgDIB2-_ODR90Ryhw9v0jd1-__c/view"
+        },
+        {
+          "code": "16",
+          "component": "Теорія і методика образотворчого мистецтва",
+          "syllabus": "https://drive.google.com/file/d/150Os3N5o8zZgJJ22N3S23ApPvquWRO8o/view",
+          "program": "https://drive.google.com/file/d/1VERSY1ycoA7Ppz7nUmT-tmCt_WJRL41p/view"
+        },
+        {
+          "code": "17",
+          "component": "Основи наукових досліджень",
+          "syllabus": "https://drive.google.com/file/d/1vCRHhPOQ1z1g4g8hUD98D_u47fb3pKQ8/view",
+          "program": "https://drive.google.com/file/d/1SVAZSjTfRgj4zRu_OW-U_qmu1d0NGxeq/view"
+        },
+        {
+          "code": "18",
+          "component": "Психологія дитяча",
+          "syllabus": "https://drive.google.com/file/d/1q48qLg4qBz5wupDfTRMP8reBKpUHJbyj/view",
+          "program": "https://drive.google.com/file/d/19iwstLRH6W6RdY_Xj9KljSejdxHz_ibF/view"
+        },
+        {
+          "code": "19",
+          "component": "Теорія і методика формування сенсорно-пізнавальної компетентності у дошкільників",
+          "syllabus": "https://drive.google.com/file/d/1_tf78-urcSDfwGoShc644v4vZI9Ni_8f/view",
+          "program": "https://drive.google.com/file/d/19DCr-HqRKgoKpxERY64lwKsew0iQWQjW/view"
+        },
+        {
+          "code": "20",
+          "component": "Методика формування соціально-громадянської компетентності в дошкільників",
+          "syllabus": "https://drive.google.com/file/d/1spr_BRQ2gpH4ubckdVI64gmwWfNK8f3F/view",
+          "program": "https://drive.google.com/file/d/1Qu1tfbRDAzDKIJOVqXRwlJ70kCeg0RRT/view"
+        },
+        {
+          "code": "21 Пс",
+          "component": "Соціальна психологія",
+          "syllabus": "https://drive.google.com/file/d/1LcUU_8bZ5hjniHeNPSTwyz0eu8xqYRqn/view",
+          "program": "https://drive.google.com/file/d/1NiMuLrZSN0yMltWEcpa5p30jayqhaSNT/view"
+        },
+        {
+          "code": "21 Л",
+          "component": "Основи логопедії з діагностикою порушень мовлення у дітей дошкільного віку",
+          "syllabus": "https://drive.google.com/file/d/1mLSCaTDiFuTWMtvT3injCaRh4bdNoyqE/view",
+          "program": "https://drive.google.com/file/d/1_QfvXxn3mglcFLbn3IPIHjQYvkfCexrO/view"
+        },
+        {
+          "code": "22 Пс",
+          "component": "Основи психотерапії",
+          "syllabus": "https://drive.google.com/file/d/1QqmBRi6a2Y_nAsFzjpXIvTiO8PaHVKPL/view",
+          "program": "https://drive.google.com/file/d/1zI5fKzI9UtFdnMgrjFEH6-8vRjIp2QrU/view"
+        },
+        {
+          "code": "22 Л",
+          "component": "Теорія та методика виховання дітей з порушеннями мовлення",
+          "syllabus": "https://drive.google.com/file/d/1b6kFxwp798cn7ukSygfpNR1PKOacGrmQ/view",
+          "program": "https://drive.google.com/file/d/1ln6dD0JC0wZARMECijh6oONwUN2LVFxh/view"
+        },
+        {
+          "code": "23 Пс",
+          "component": "Основи психодіагностики та корекції",
+          "syllabus": "https://drive.google.com/file/d/1KVvKcYvKhKswIuoyqs61nI6dbDfGg_ok/view",
+          "program": "https://drive.google.com/file/d/1Ici5-hGfLDig8Mkm6T7ZWh6aynbd2ZWS/view"
+        },
+        {
+          "code": "23 Л",
+          "component": "Логопедія з практикумом",
+          "syllabus": "https://drive.google.com/file/d/12Dr0SDaHOpAjVxaz5PjlkNTJPNN7sLS8/view",
+          "program": "https://drive.google.com/file/d/1KOFlQKDR4_-Px3TpLYphrNNqGISvldWR/view"
+        },
+        {
+          "code": "24",
+          "component": "Основи педагогічної майстерності",
+          "syllabus": "https://drive.google.com/file/d/1ZWJLi2_dRfjgBHEuuS8q6W2XYve9ZmCP/view",
+          "program": "https://drive.google.com/file/d/1zcOTG3Hx1Mp9Czh0FEm_ZNUooSNepVH_/view"
+        },
+        {
+          "code": "25",
+          "component": "Основи інклюзивної освіти",
+          "syllabus": "https://drive.google.com/file/d/1saZVXg5U_7z4P_VhKCWuEdmE84iFn-OX/view",
+          "program": "https://drive.google.com/file/d/1BQTu_CMZoVumtkbkCs7sPNDIZoUYqwDz/view"
+        },
+        {
+          "code": "26 Пс",
+          "component": "Психологічне консультування в дошкільній освіті",
+          "syllabus": "https://drive.google.com/file/d/1GnZoU4rVZ95zdIKrDW1VWUjFz89bdO8n/view",
+          "program": "https://drive.google.com/file/d/1FFUPP0moFQGHBI_86IFlwqGZjyUz-qOB/view"
+        },
+        {
+          "code": "26 Л",
+          "component": "Організація та планування логопедичної роботи",
+          "syllabus": "https://drive.google.com/file/d/1qa5oGYUDU9gJ98v1IKsmIeJeP2IJWn2m/view",
+          "program": "https://drive.google.com/file/d/15EOUawZ7k3wKX92bGch9It0buCT6_nwZ/view"
+        },
+        {
+          "code": "27",
+          "component": "Курсова робота з психології дитячої",
+          "syllabus": "https://drive.google.com/file/d/1d5X5FlMQmA2AX_8qFvQF-mWwSMcMmdWE/view",
+          "program": "https://drive.google.com/file/d/1YBgiFSt4UpjjhbtinyukjmsGESj2Vg3x/view"
+        },
+        {
+          "code": "28",
+          "component": "Курсова робота з педагогіки дошкільної та фахових методик",
+          "syllabus": "https://drive.google.com/file/d/1Jz4I7WCT3xQZPC_rwj1UzxpkaQHIiuN9/view",
+          "program": "https://drive.google.com/file/d/1mAjDjNCK-3mLIPg_NOireKiGDLCfLZV7/view"
+        },
+        {
+          "code": "29 Пс",
+          "component": "Курсова робота з психології",
+          "syllabus": "https://drive.google.com/file/d/1mAjDjNCK-3mLIPg_NOireKiGDLCfLZV7/view",
+          "program": "https://drive.google.com/file/d/13DQ_oGh1BiA-j7ecknPKjso1h4MI9SFL/view"
+        },
+        {
+          "code": "29 Л",
+          "component": "Курсова робота з логопедії",
+          "syllabus": "https://drive.google.com/file/d/1NHScOCGFuqVD1txUOS0yyM0QGbkRTdBm/view",
+          "program": "https://drive.google.com/file/d/197XbVwpiIxRNFpkFxJMTscFJ-6zFMDgC/view"
+        },
+        {
+          "code": "30",
+          "component": "Безвідривна практика (ознайомлювальна) в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1So79S5dLpdBumzKdEcJRK9PW2JF0Ba7C/view",
+          "program": "https://drive.google.com/file/d/10QUdteTYwWCY5ZoJH5TBSsUrtuzww3y6/view"
+        },
+        {
+          "code": "31",
+          "component": "Практика в групах дітей раннього віку",
+          "syllabus": "https://drive.google.com/file/d/1DX0LI5OJDzZcCDXvRIweINY6Px05XUsj/view",
+          "program": "https://drive.google.com/file/d/1aSGAURvMN5_q3PpqPfBFRrT-nEUVANoP/view"
+        },
+        {
+          "code": "32",
+          "component": "Літня оздоровча практика в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1UncfTjXDzhVb_QhiUnDbTQKoRFLNAN0a/view",
+          "program": "https://drive.google.com/file/d/1IecLxoz-qbQOGgkJya74ZcxYHdMmkjpl/view"
+        },
+        {
+          "code": "33",
+          "component": "Навчальна практика в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1LxHLFDnVZF6FLQE32o3xxbubdiHU0FSv/view",
+          "program": "https://drive.google.com/file/d/1ZwqgjkItbMotmR8vENO8K0Oi7oMIz8qa/view"
+        },
+        {
+          "code": "34",
+          "component": "Методична практика в ЗДО",
+          "syllabus": "https://drive.google.com/file/d/1l5qygf9FFOEpDBqMo-hItMaR_saHNN-m/view",
+          "program": "https://drive.google.com/file/d/1lrQ18rhz8HHSMnQU510wdrmD-BvkhnWA/view"
+        },
+        {
+          "code": "35 Пс",
+          "component": "Навчальна  практика в ЗДО на робочому місці практичного психолога",
+          "syllabus": "https://drive.google.com/file/d/1tuX9R8Dk5hhi0TQIROgmV_NockAn3g_P/view",
+          "program": "https://drive.google.com/file/d/1UOV-zDc3eVIfBBTBKVhDV7sM1CsWSvQH/view"
+        },
+        {
+          "code": "35 Л",
+          "component": "Навчальна  практика в ЗДО на робочому місці вчителя-логопеда",
+          "syllabus": "https://drive.google.com/file/d/1RNQRgcZU6NlrwMpnw4PkQKsUq6Uhz625/view",
+          "program": "https://drive.google.com/file/d/1wIoLT4Pi0UCWaxldcN2Dkuy_1ZgZunqT/view"
+        },
+        {
+          "code": "36 Пс",
+          "component": "Методична практика в ЗДО на робочому місці практичного психолога",
+          "syllabus": "https://drive.google.com/file/d/1P37cpQNokiCGZO9s0dcYFyfzpK20-m_f/view",
+          "program": "https://drive.google.com/file/d/1mKR7e4GqAg8Qs9T1APlztJ30IZVhP-2u/view"
+        },
+        {
+          "code": "36 Л",
+          "component": "Методична практика в ЗДО на робочому місці вчителя-логопеда",
+          "syllabus": "https://drive.google.com/file/d/1TNLre9tNh6o772X3PT12tDW2mKy8d6Lk/view",
+          "program": "https://drive.google.com/file/d/1pUuyX4iOTHaeXgT3whBjtI_SwrPoJbko/view"
+        },
+        {
+          "code": "37",
+          "component": "Іноземна мова (практикум)",
+          "syllabus": "https://drive.google.com/file/d/1qoAgvIo5F-FCKqbX3a1WIoAMwBbr8LA_/view",
+          "program": "https://drive.google.com/file/d/1VQhIm8cDJ1mBgN4q4O5syMs1EJMHS17R/view"
+        },
+        {
+          "code": "38 Пс",
+          "component": "Кваліфікаційний екзамен зі спеціальності 012 Дошкільна освіта",
+          "syllabus": "https://drive.google.com/file/d/1QPTJB6RLBta3oSb0JFNijO-vy_NaPlwS/view",
+          "program": "https://drive.google.com/file/d/1H0LHhsI743lo4kbbLuZJy7-mBT82eohH/view"
+        },
+        {
+          "code": "39 Пс",
+          "component": "Комплексний екзамен з психології",
+          "syllabus": "https://drive.google.com/file/d/1KI838C-Q4iDaiOVmc5XljHf3Lvljv_80/view",
+          "program": "https://drive.google.com/file/d/1LLW33_stdM2FznFWqhXFD-TD_9pChorl/view"
+        },
+        {
+          "code": "39 Л",
+          "component": "Комплексний екзамен з логопедії",
+          "syllabus": "https://drive.google.com/file/d/1tqUn9K8oeMFEfAEFavCB-lRYy6YC3NQb/view",
+          "program": "https://drive.google.com/file/d/14gk1hFTdhuC3A2kpJbSEhMNVxLjnD-AT/view"
+        }
+      ]
+    }
+  ],
+
+  "ROKPhysical2026Bachelor": [
+    {
+      "trainingCategory": "ЦИКЛ ПРОФЕСІЙНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "1",
+          "component": "Вступ до спеціальності",
+          "syllabus": "https://docs.google.com/document/d/18YxI4GFHLUca0v0rbH6LGUYbnjWB8QoO/view",
+          "program": "https://drive.google.com/file/d/1FsjchZr7pQggX4oyirmzFl172XKH-rlv/view"
+        },
+        {
+          "code": "2",
+          "component": "Історія фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1VO2O37MR21vh3oQ7TM9nr3Zfkk8v-BrD/view",
+          "program": "https://drive.google.com/file/d/18b8o-OVggz9rPpOTb8QhLxcGKXPfkHQd/view"
+        },
+        {
+          "code": "3",
+          "component": "Психологія",
+          "syllabus": "https://docs.google.com/document/d/1dmVULSSqxkKyhL6TOh2Yz5zM-z6h9jDT/view",
+          "program": "https://drive.google.com/file/d/1Sdv7VkJk7tPluSnFQtNLq8qPaAriXe1G/view"
+        },
+        {
+          "code": "4",
+          "component": "Підвищення спортивно-педагогічної майстерності",
+          "syllabus": "https://docs.google.com/document/d/1XLp1rSLsrD5vBTikxFwLLl4RMsmmNpiW/view",
+          "program": "https://drive.google.com/file/d/1kgrpeCfIYlH9DdC-mET9B25S09l5NI-9/view"
+        },
+        {
+          "code": "5",
+          "component": "Анатомія, фізіологія і морфологія людини",
+          "syllabus": "https://docs.google.com/document/d/1LbhKSsdQYOWKcyOwqS83XQDuEPcDsl4l/view",
+          "program": "https://drive.google.com/file/d/1jyR6eid4QT5M_TY4TLfdGlcEdQzDntfb/view"
+        },
+        {
+          "code": "6",
+          "component": "Теорія і методика навчання легкої атлетики",
+          "syllabus": "https://docs.google.com/document/d/1BYjdE5aHYuOkqo9N57MpBjq8OfBSzVHp/view",
+          "program": "https://drive.google.com/file/d/1WS1LHcyY_zOJWT4I-T4jL1X8ubfP2PFC/view"
+        },
+        {
+          "code": "7",
+          "component": "Педагогіка",
+          "syllabus": "https://docs.google.com/document/d/19pqrCHGCeGwX4TNrTMDuQnxpwITH3LPU/view",
+          "program": "https://drive.google.com/file/d/18CsgJhcgfZv_cRutGCa_Y3dlNYEuuVwn/view"
+        },
+        {
+          "code": "8",
+          "component": "Теорія і методика навчання гімнастики",
+          "syllabus": "https://docs.google.com/document/d/1vfJdyW8wlOP9_ULEnTpTcTwUhWKF_FwU/view",
+          "program": "https://drive.google.com/file/d/1POD3aEP-0YZeCj0uTDua11VHMonOY7-q/view"
+        },
+        {
+          "code": "9",
+          "component": "Теорія і методика навчання рухливих ігор",
+          "syllabus": "https://docs.google.com/document/d/15h0P_GqUIpdkR3BJhABGVMrOy6a7ViWV/view",
+          "program": "https://drive.google.com/file/d/1BW6i4WbfpW9FeWc4VkBE58KIwF6-36Qs/view"
+        },
+        {
+          "code": "10",
+          "component": "Теорія і методика навчання спортивних ігор",
+          "syllabus": "https://docs.google.com/document/d/1X2PZZVPfnuM5blSVGcgMsAn_6JdrxWBB/view",
+          "program": "https://drive.google.com/file/d/1SgNzWI_no-q1xLvRsT9dHe_UHZ5uW9iM/view"
+        },
+        {
+          "code": "11",
+          "component": "Теорія і методика фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/1nCLjKvdPR8_AsuGG26LP-nB1IRIrovs8/view",
+          "program": "https://drive.google.com/file/d/1HhE7Kr4ZFuW6nzFZGjDLHx70B8Fz7Zy6/view"
+        },
+        {
+          "code": "12",
+          "component": "Фізіологічні основи фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/1L50HZGDeHq_1m1fVkuKxs05yr0wfSc2g/view",
+          "program": "https://drive.google.com/file/d/1pVkf8yp_M3-RzhgU8IBxqxb85ppj8SOE/view"
+        },
+        {
+          "code": "13",
+          "component": "Основи інклюзивної освіти у фізичному вихованні",
+          "syllabus": "https://docs.google.com/document/d/1eT5DUGaI8QdLim7WjZaQVLQ7c8HsYqnJ/view",
+          "program": "https://drive.google.com/file/d/1KDR4MTOIK0JuL4PWAW4i9jV5tbZeQuQJ/view"
+        },
+        {
+          "code": "14",
+          "component": "Спортивно-масова робота",
+          "syllabus": "https://docs.google.com/document/d/1z0Iu7yXCG2L-5IDtsVpzUnRytcgI--GB/view",
+          "program": "https://drive.google.com/file/d/1tGcOXuTAWZ0PzLVpYQTWkU6Ianode3OE/view"
+        },
+        {
+          "code": "15",
+          "component": "Основи наукових досліджень у фізичному вихованні",
+          "syllabus": "https://docs.google.com/document/d/1WH3KCi9SyhC6D6OYs4PuAonoiq5DyaMR/view",
+          "program": "https://drive.google.com/file/d/1G0llmMB2H6POy_Rh13KIiJSKeWvWVQgR/view"
+        },
+        {
+          "code": "16",
+          "component": "Організація краєзнавчо-туристичної роботи",
+          "syllabus": "https://docs.google.com/document/d/1EiGVkgrFKyMx6Px8RT75YI1YNYVmdDus/view",
+          "program": "https://drive.google.com/file/d/1Rx0yCEai1R8rvvpaAWAGAZVo0jaqn3q8/view"
+        },
+        {
+          "code": "17",
+          "component": "Теорія і методика навчання туризму і спортивного орієнтування",
+          "syllabus": "https://docs.google.com/document/d/1r2Gt5trZvgOu0WwV1mszRHwBv2zupA2k/view",
+          "program": "https://drive.google.com/file/d/1KI1gQex5twFISqrU2azoZaiQGZy-WUv7/view"
+        },
+        {
+          "code": "18",
+          "component": "Біомеханіка фізичних вправ",
+          "syllabus": "https://docs.google.com/document/d/1_zshRpHWg6hk3-B2NCI4ebT8BSmWFPiC/view",
+          "program": "https://drive.google.com/file/d/1NtcnYDF5qaycfnbryByMScu5EzmlGjtV/view"
+        },
+        {
+          "code": "19",
+          "component": "Педагогічна майстерність вчителя фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1nRBfE2hlxGqrWInRBi4KNUHYQsbroUYf/view",
+          "program": "https://drive.google.com/file/d/1-mPBH0cTcQH0Go5HSTlZ3Rl6ro-QQJIq/view"
+        },
+        {
+          "code": "20",
+          "component": "Теорія і методика навчання плавання",
+          "syllabus": "https://docs.google.com/document/d/1DGqJQMZgKcLBgTHPGLQRvNsZsyo_y87y/view",
+          "program": "https://drive.google.com/file/d/1kkkld4P_5v2l_aBrfYbopc69ii2LWPzJ/view"
+        },
+        {
+          "code": "21",
+          "component": "Курсова робота з теорії і методики фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/1_AvK5QOxCB97UGzPUrVKK8zxBToXErf1/view",
+          "program": "https://drive.google.com/file/d/1izsnxAjWkttcbJX0VC-QkZ_85DPNVnfe/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ПРАКТИКА",
+      "trainingComponents": [
+        {
+          "code": "22",
+          "component": "Педагогічна практика (безвідривна)",
+          "syllabus": "https://drive.google.com/file/d/12K2etRQhTk7H3AFsIFjbXFz94jyXNHdb/view",
+          "program": "https://drive.google.com/file/d/1OmuHAKQ73pwor-TGf8nIziu6TQXqiewT/view"
+        },
+        {
+          "code": "23",
+          "component": "Педагогічна практика в дитячих закладах оздоровлення та відпочинку",
+          "syllabus": "https://drive.google.com/file/d/1XfU-JY9US3ItbF9bY445fBNuCzbaQmXe/view",
+          "program": "https://drive.google.com/file/d/1Ezrtb86wqJxtmGbqW_MhDyUH5pKdTCst/view"
+        },
+        {
+          "code": "24",
+          "component": "Виробнича педагогічна практика",
+          "syllabus": "https://drive.google.com/file/d/18QCv-0ZOC72r1yXqswkfyfliqSWcZx6b/view",
+          "program": "https://drive.google.com/file/d/1y_l2sQZbcE4VVxdZlAXK1izpz8f7kgP8/view"
+        },
+        {
+          "code": "25",
+          "component": "Виробнича практика на робочому місці вчителя фізичної культури",
+          "syllabus": "https://drive.google.com/file/d/11zF2g-3uHcrP9v7u8OEtG4YcXNG8rEpZ/view",
+          "program": "https://drive.google.com/file/d/1d2dzFZNeWs99E6ecGgjphod4iS1APLgB/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "АТЕСТАЦІЯ",
+      "trainingComponents": [
+        {
+          "code": "26",
+          "component": "Комплексний кваліфікаційний іспит зі спеціальності А4.11 Середня освіта (Фізична культура)",
+          "syllabus": "https://docs.google.com/document/d/1uDkUKR-9eeOq0J4cSkRJrtZoGICIU_E3/view",
+          "program": "https://drive.google.com/file/d/1eJQ6zFn5n56O5kAsFVy7XTawPBSXMjtD/view"
+        }
+      ]
+    }
+  ],
+  "ROKPhysical2025Bachelor": [
+    {
+      "trainingCategory": "ЦИКЛ ПРОФЕСІЙНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "1",
+          "component": "Вступ до спеціальності",
+          "syllabus": "https://docs.google.com/document/d/1bwNp_3dO7YxohFtROgZb17HsFSkDlnyf/view",
+          "program": "https://drive.google.com/file/d/1QQm3nOOrcq30BMO1DQxO_AqXKGnBmAXX/view"
+        },
+        {
+          "code": "2",
+          "component": "Історія фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1RB-2f-8mS8NKF0ZdJbqMNE9ChdLJSojV/view",
+          "program": "https://drive.google.com/file/d/1n6tQxHt_-nngsWXAOiQ2bSXCVQfJXqLr/view"
+        },
+        {
+          "code": "3",
+          "component": "Психологія",
+          "syllabus": "https://docs.google.com/document/d/1vmrGIB_btvlKfHmkc5a-8TE69vHS8JNY/view",
+          "program": "https://drive.google.com/file/d/1BqGsmxnDZVyRh8U7Kq0K2DW16MwplPq7/view"
+        },
+        {
+          "code": "4",
+          "component": "Підвищення спортивно-педагогічної майстерності",
+          "syllabus": "https://docs.google.com/document/d/1goZy1bmtq6vffep5brIqoupayu1fvCUd/view",
+          "program": "https://drive.google.com/file/d/1w6KrckXvyN8kj1-cEuPXnj2OqpCiAYBs/view"
+        },
+        {
+          "code": "5",
+          "component": "Анатомія, фізіологія і морфологія людини",
+          "syllabus": "https://docs.google.com/document/d/1q0lclYTuxDVYR9HglDabP1HfxZ0Jv4F_/view",
+          "program": "https://drive.google.com/file/d/1Y6S6_I_Rt2dzlyyVPDHy9fVQ0LCqq_xz/view"
+        },
+        {
+          "code": "6",
+          "component": "Теорія і методика навчання легкої атлетики",
+          "syllabus": "https://docs.google.com/document/d/198W8EZTntx41f86WKvvWMpAydV4amNl8/view",
+          "program": "https://drive.google.com/file/d/1nPYABTAhrua9WAtYqHQU3HggFXz5NJyP/view"
+        },
+        {
+          "code": "7",
+          "component": "Педагогіка",
+          "syllabus": "https://docs.google.com/document/d/1kYXMP7X-uPAZMCdMoWj0MKKtCmGMbuUs/view",
+          "program": "https://drive.google.com/file/d/1voFzLj5LCL6WewshuQoOlz8dB1nYMwB3/view"
+        },
+        {
+          "code": "8",
+          "component": "Теорія і методика навчання гімнастики",
+          "syllabus": "https://docs.google.com/document/d/1Fvnr9J0xViJ4SfeCjl2A-HjeBzEI2XCq/view",
+          "program": "https://drive.google.com/file/d/1ziCt-6hHVE8hOBI85GW5ZQsBpOgFk7Yq/view"
+        },
+        {
+          "code": "9",
+          "component": "Теорія і методика навчання рухливих ігор",
+          "syllabus": "https://docs.google.com/document/d/1W6okY96G7YWkDdjWda3kygEAALqIxZTy/view",
+          "program": "https://drive.google.com/file/d/1PfLF8SqY4I_ykMDT2vV-8_W9Ps6sb12N/view"
+        },
+        {
+          "code": "10",
+          "component": "Теорія і методика навчання спортивних ігор",
+          "syllabus": "https://docs.google.com/document/d/1l01vWAuDFS4xaHJ3AeGleeFoLdCpUkhA/view",
+          "program": "https://drive.google.com/file/d/1yA9C4Yxb8-803YodqkybsULNIkXXg4Wm/view"
+        },
+        {
+          "code": "11",
+          "component": "Теорія і методика фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/1fAuPGPz4YDZZhRqMM-xOpDtanbjsDspV/view",
+          "program": "https://drive.google.com/file/d/1iVYcwlKWyyTYDdTtn6t4Fkfg3Wg1T12K/view"
+        },
+        {
+          "code": "12",
+          "component": "Фізіологічні основи фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/1jDJX7sfux7WUFB4B5eY4rdILyfjsNI6F/view",
+          "program": "https://drive.google.com/file/d/1nbZdtfkpx_bsA3ettH7ABzOjkgNXrHU6/view"
+        },
+        {
+          "code": "13",
+          "component": "Основи інклюзивної освіти",
+          "syllabus": "https://docs.google.com/document/d/1ude_I2an54HfkT8CNW4GiwPImsFPe9gi/view",
+          "program": "https://drive.google.com/file/d/1ePCc8DU-paCXVEsp449ebCL4VQ2DVuCz/view"
+        },
+        {
+          "code": "14",
+          "component": "Спортивно-масова робота",
+          "syllabus": "https://docs.google.com/document/d/1L-GFz5FbP6Z5yWsjj5Em2lAEGASq_6cO/view",
+          "program": "https://drive.google.com/file/d/1kEY2kuquBQV0Ary4Qky03Sm3_x5DXMjB/view"
+        },
+        {
+          "code": "15",
+          "component": "Основи наукових досліджень",
+          "syllabus": "https://docs.google.com/document/d/1zP8l-oPu_3XIAyXRYl2ngf86Lj3YPFCY/view",
+          "program": "https://drive.google.com/file/d/1ybZRmqIsBsFI3feFnPlGMJXgDKBA3fX6/view"
+        },
+        {
+          "code": "16",
+          "component": "Організація краєзнавчо-туристичної роботи",
+          "syllabus": "https://docs.google.com/document/d/1qikKy3T1GEN3Pl22a-xWtX3gRiKH700Q/view",
+          "program": "https://drive.google.com/file/d/18EKupp5wpGQETrXAO8b9x7iwpdqu1YF7/view"
+        },
+        {
+          "code": "17",
+          "component": "Теорія і методика навчання туризму і спортивного орієнтування",
+          "syllabus": "https://docs.google.com/document/d/1dSKYat_5lfahFI4lJP-Xughuqhd_xCMP/view",
+          "program": "https://drive.google.com/file/d/1xLJSHSjrJs8_SAXUmx001e_MnipoIi2O/view"
+        },
+        {
+          "code": "18",
+          "component": "Біомеханіка фізичних вправ",
+          "syllabus": "https://docs.google.com/document/d/17YiK5mZVKnmJHkw91Wpu2j9AaVN6LSx4/view",
+          "program": "https://drive.google.com/file/d/1Vtlhq5lUzJNPH0GPtb1efS5iYc5fUEAq/view"
+        },
+        {
+          "code": "19",
+          "component": "Педагогічна майстерність вчителя фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1dCbTonIBvKEIjl1S_tpoQvT3unCkEnkC/view",
+          "program": "https://drive.google.com/file/d/1jF1dw3ZuCnTpqCKGDPbxxWSaA4EOjHWZ/view"
+        },
+        {
+          "code": "20",
+          "component": "Теорія і методика навчання плавання",
+          "syllabus": "https://docs.google.com/document/d/1SnmxCoS4xABF6CP8fQ-SfQ9XMEELD9kx/view",
+          "program": "https://drive.google.com/file/d/12ip-ggAd60pB-PRHgNGhwGd6pHf19Uck/view"
+        },
+        {
+          "code": "21",
+          "component": "Курсова робота з теорії і методики фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/18FuxcMtRjzxPB_KVJJN2vGZSCVEwOadP/view",
+          "program": "https://drive.google.com/file/d/1xWvwSGY8s_OtprJbDepHnQA1rz9OyDjy/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ПРАКТИКА",
+      "trainingComponents": [
+        {
+          "code": "22",
+          "component": "Педагогічна практика (безвідривна)",
+          "syllabus": "https://drive.google.com/file/d/1CqFRvyVYsyzAF1uoXp8e4GKOfN0TT-et/view",
+          "program": "https://drive.google.com/file/d/1k17T3s3ohjNE_cKZcor8MI3c7rKbKaWr/view"
+        },
+        {
+          "code": "23",
+          "component": "Педагогічна практика в дитячих закладах оздоровлення та відпочинку",
+          "syllabus": "https://drive.google.com/file/d/1_BChbUKoPnENmBnNhoEW-er0Bs8a1MIX/view",
+          "program": "https://drive.google.com/file/d/1vNcne_34T3IwUqAMo3fSBBz__MQeb7Ry/view"
+        },
+        {
+          "code": "24",
+          "component": "Виробнича педагогічна практика",
+          "syllabus": "https://drive.google.com/file/d/10VJ1Jl0853yaFXgURi5KVYEdMCYQS8XN/view",
+          "program": "https://drive.google.com/file/d/1CvDUyG4UD17cRs2hmQl6ee7kFWlWw4KF/view"
+        },
+        {
+          "code": "25",
+          "component": "Виробнича практика на робочому місці вчителя фізичної культури",
+          "syllabus": "https://drive.google.com/file/d/1yym0n7_zaThD8v3yZE22VXvxeKsW4Lks/view",
+          "program": "https://drive.google.com/file/d/10ibsb6LEFSJ6wly2RNl6o3a8xIwZDhd6/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "АТЕСТАЦІЯ",
+      "trainingComponents": [
+        {
+          "code": "26",
+          "component": "Комплексний кваліфікаційний іспит зі спеціальності 014 Середня освіта (Фізична культура)",
+          "syllabus": "https://docs.google.com/document/d/1g881pZANmP7suHvx83Os7U9lqOJaNZya/edit?usp=drive_link&ouid=107406442230532927406&rtpof=true&sd=true",
+          "program": "https://drive.google.com/file/d/1sFtT0DB-ELZNI4jKAH46xtiNkOozkP4t/view?usp=sharing"
+        }
+      ]
+    }
+  ],
+  "ROKPhysical2026Master": [
+    {
+      "trainingCategory": "ЦИКЛ ЗАГАЛЬНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "1",
+          "component": "Філософія освіти",
+          "syllabus": "https://docs.google.com/document/d/1WBmBgDLEgAD960NlaifQidc290AL0mtf/view",
+          "program": "https://drive.google.com/file/d/1pc-1lfLm7cv0HoglHzziUXKPLAP4SCXs/view"
+        },
+        {
+          "code": "2",
+          "component": "Культура наукової української мови",
+          "syllabus": "https://docs.google.com/document/d/1VOj9M66UL51i1TVCThqgWxrL9uhgK8Dj/view",
+          "program": "https://drive.google.com/file/d/1acqnwped1Ih1Oq2QTPPcebbeQyveeqnJ/view"
+        },
+        {
+          "code": "3",
+          "component": "Англійська мова для академічних цілей",
+          "syllabus": "https://docs.google.com/document/d/1Jq_V9sNBw9GozbQhJ0tR3WsvxX3v8ze5/view",
+          "program": "https://drive.google.com/file/d/19N8gtLDSjlcPkeZCqgCfNyhP-mz0bwkE/view"
+        },
+        {
+          "code": "4",
+          "component": "Методологія і методи наукових досліджень",
+          "syllabus": "https://docs.google.com/document/d/1RK-HKb0TVu48DPl3vaYjrVIlJh8LtRIa/view",
+          "program": "https://drive.google.com/file/d/1h1ugV2EJnghIMmDd1theIFQJkKl0NKro/view"
+        },
+        {
+          "code": "5",
+          "component": "Інформаційні технології в дослідницькій діяльності",
+          "syllabus": "https://docs.google.com/document/d/1sAAyK98EWCrimM6poRtrlsekTgFRAT7F/view",
+          "program": "https://drive.google.com/file/d/1pRHHK8s9_EK-QAwtBSG7wBfdo8We0hjP/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ЦИКЛ ПРОФЕСІЙНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "6",
+          "component": "Інноваційна педагогіка",
+          "syllabus": "https://docs.google.com/document/d/1q1N70y62girCeSxMvw0aaR95MwTGPXFN/view",
+          "program": "https://drive.google.com/file/d/1OR1NVYzQb95msGkBFC1K_e6FmDeEcKA8/view"
+        },
+        {
+          "code": "7",
+          "component": "Психологія фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/134k36Rr6CJ9h2Tjv9I2gp_SkjtGymA26/view",
+          "program": "https://drive.google.com/file/d/1QeIwMs7z0SJV2bPYrxJDJ80eNyKxXn9d/view"
+        },
+        {
+          "code": "8",
+          "component": "Методика навчання фізичної культури в закладах загальної середньої освіти",
+          "syllabus": "https://docs.google.com/document/d/1dlZpuCZNJ1wyvUIgykm49nBq1w_8zGTm/view",
+          "program": "https://drive.google.com/file/d/1uqf_r2jMQ5u9S5Dyc0FahfPVBAbZwKmS/view"
+        },
+        {
+          "code": "9",
+          "component": "Теорія і методика оздоровчої фізичної культури школярів",
+          "syllabus": "https://docs.google.com/document/d/10IlWtb4EW32fi0ifN9sbjeEcOuoYyjWc/view",
+          "program": "https://drive.google.com/file/d/1ZRxZFd0vYhyW4plZiuXnfz5-fTzgJGAn/view"
+        },
+        {
+          "code": "10",
+          "component": "Інноваційні технології у фізичному вихованні школярів",
+          "syllabus": "https://docs.google.com/document/d/1f4L5k4fdHWGvq0sAcfTwmo7gRYGrLWLY/view",
+          "program": "https://drive.google.com/file/d/1EwRILFnK0HaZBu5TLRv41MqUgUflBWgd/view"
+        },
+        {
+          "code": "11",
+          "component": "Фізична рекреація",
+          "syllabus": "https://docs.google.com/document/d/1dthsJYbuySCP9z-YHwWKgER34JzNJkB6/view",
+          "program": "https://drive.google.com/file/d/1r6_iFq4z8CwfpiBdwDQ-j8FZVEX-bYST/view"
+        },
+        {
+          "code": "12",
+          "component": "Фізична культура в інклюзивному середовищі",
+          "syllabus": "https://docs.google.com/document/d/1ezR_Dwj6xZQAFehuSYc9-FcosUXj7cmP/view",
+          "program": "https://drive.google.com/file/d/1Gphi6lKzfzZckYE8SxIVDKJLEen8ywWc/view"
+        },
+        {
+          "code": "13",
+          "component": "Методика організації позакласної роботи з фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1aieV196v2pv7Ay-8GvoJXBkvp0L5T5KB/view",
+          "program": "https://drive.google.com/file/d/14S7sdh8xeSG-FknjgJCZ9EZvKQfVwWnl/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ПРАКТИКА",
+      "trainingComponents": [
+        {
+          "code": "14",
+          "component": "Науково-дослідницька практика з написання магістерської роботи (безвідривна)",
+          "syllabus": "https://docs.google.com/document/d/13AugEbM6yBkw1JAqJMDQTKzGu4N2cZiP/view",
+          "program": "https://drive.google.com/file/d/1YsT0zKkoo1vj-UD7Dw5oMVAN4Mx-jbQO/view"
+        },
+        {
+          "code": "15",
+          "component": "Виробнича практика на робочому місці вчителя фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/15A5ZlQB3q5ZCel9rVgKaM2yAxhilshPh/view",
+          "program": "https://drive.google.com/file/d/1H37pJGxD1KgGaKSc-kzp-NE3jzZJUM8V/view"
+        },
+        {
+          "code": "16",
+          "component": "Виробнича практика на робочому місці вчителя та керівника гуртка з фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1yOemvklOEIoNc7sJ33OqQ_bEHg3hL3R6/view",
+          "program": "https://drive.google.com/file/d/1lnavi2u93xkXLBJMk1wQ-JbZ4ivXOscb/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "АТЕСТАЦІЯ",
+      "trainingComponents": [
+        {
+          "code": "17",
+          "component": "Захист кваліфікаційної роботи",
+          "syllabus": "https://docs.google.com/document/d/13DOAztsPZEm8Lyq06bNP0D66rHkic0DV/view",
+          "program": "https://drive.google.com/file/d/1hHKbxPPJS2B_RxEhPLTRb-cHMe9er2qa/view"
+        },
+        {
+          "code": "18",
+          "component": "Кваліфікаційний іспит",
+          "syllabus": "https://docs.google.com/document/d/17VnThTyd9VePC5p43Fmxcgh7qEiJ3sYd/view",
+          "program": "https://drive.google.com/file/d/1ICHZGtXPcITteYLUN0EWql7k65Bi5L_x/view"
+        }
+      ]
+    }
+  ],
+  "ROKPhysical2025Master": [
+    {
+      "trainingCategory": "ЦИКЛ ЗАГАЛЬНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "1",
+          "component": "Філософія освіти",
+          "syllabus": "https://docs.google.com/document/d/1bPZ80QN96_qjxks-VHtMaXwUg4pep4Vh/view",
+          "program": "https://drive.google.com/file/d/1MYOQkjMvkrFK6JB7gNAoomoH_6KT7D9w/view"
+        },
+        {
+          "code": "2",
+          "component": "Культура наукової української мови",
+          "syllabus": "https://docs.google.com/document/d/1OKY3MsXDLPxPOnplXk8ZzNDtzCsLfV30/view",
+          "program": "https://drive.google.com/file/d/1ElKQSoWyiUEsDQ1o6CEei0b0-aa3Gc7P/view"
+        },
+        {
+          "code": "3",
+          "component": "Іноземна мова для академічних цілей",
+          "syllabus": "https://docs.google.com/document/d/1GvHO2eteGhbzrSiu4Un7TQvWFL-ox9SV/view",
+          "program": "https://drive.google.com/file/d/1mpBgbP26WujJTQ2zN3Qu5i7oHRZOeZnd/view"
+        },
+        {
+          "code": "4",
+          "component": "Методологія і методи наукових досліджень",
+          "syllabus": "https://docs.google.com/document/d/1d4P5mp-8MYTsy1SpxDyjwEj2QdDIdJNo/view",
+          "program": "https://drive.google.com/file/d/120XruTwpIwkE6UCfUM_q8cA2lGA22ewg/view"
+        },
+        {
+          "code": "5",
+          "component": "Інформаційні технології в дослідницькій діяльності",
+          "syllabus": "https://docs.google.com/document/d/1LF18MKCo-ZF0HFlruw4n4s-_xay3KvvK/view",
+          "program": "https://drive.google.com/file/d/1PE3V7m5tk-kLdedtmpF73pVx9f_pS2Ue/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ЦИКЛ ПРОФЕСІЙНОЇ ПІДГОТОВКИ",
+      "trainingComponents": [
+        {
+          "code": "6",
+          "component": "Інноваційна педагогіка",
+          "syllabus": "https://docs.google.com/document/d/12rZqCM2SrRNPbsb3_uLwHvT3saxzj1N8/view",
+          "program": "https://drive.google.com/file/d/1NZBTaIGZDnkgTpHIqQxLWFCg0UgJYjST/view"
+        },
+        {
+          "code": "7",
+          "component": "Психологія фізичного виховання",
+          "syllabus": "https://docs.google.com/document/d/1UyhYkhWI8jTWRteztCay_OmElxOVevdZ/view",
+          "program": "https://drive.google.com/file/d/1Eafk7LdtikDzTGKmpBSJe5HuPFxGDVX3/view"
+        },
+        {
+          "code": "8",
+          "component": "Методика навчання фізичної культури в закладах освіти",
+          "syllabus": "https://docs.google.com/document/d/1UKnzdS5zD1fbKRX0gF0hNzmZzmXbbA-k/view",
+          "program": "https://drive.google.com/file/d/1aFZvy5KfxudprgrGlpKWMZ-HNy-4ZWvg/view"
+        },
+        {
+          "code": "9",
+          "component": "Теорія і методика оздоровчої фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1bCFtnkcinmLCQdA-teoDktppdFEJDCX9/view",
+          "program": "https://drive.google.com/file/d/14QzwaRkP1MkBRkNbfUKYd0UM240NxUJS/view"
+        },
+        {
+          "code": "10",
+          "component": "Інноваційні технології у фізичному вихованні",
+          "syllabus": "https://docs.google.com/document/d/1F9z3ttoZAjrGhQupR8jPY31HLxC7IDxt/view",
+          "program": "https://drive.google.com/file/d/1fYYnrZheoa2is-7ujQNEJ4HrSFPnOUo8/view"
+        },
+        {
+          "code": "11",
+          "component": "Фізична рекреація",
+          "syllabus": "https://docs.google.com/document/d/1hMcZ1JfjonbZimAKkPknOJpnIOILU6U4/view",
+          "program": "https://drive.google.com/file/d/1sGg8utgvd06tgVu8M8O5WMOkoiIAXZeY/view"
+        },
+        {
+          "code": "12",
+          "component": "Методика організації позакласної роботи з фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/162lPQoEt69NEXai1aGakSn5RwH_UbHhM/view",
+          "program": "https://drive.google.com/file/d/1TIE9iWWbIP0nTb_oo1Spbc48SCfv8grY/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "ПРАКТИКА",
+      "trainingComponents": [
+        {
+          "code": "13",
+          "component": "Науково-дослідницька практика (написання магістерської роботи)",
+          "syllabus": "https://docs.google.com/document/d/12DOFBhXqko600OPLgXx0xgHdGNlXEcrw/view",
+          "program": "https://drive.google.com/file/d/1RyiL311ebx3p2qr9U9XXz7CBc-bLVeeH/view"
+        },
+        {
+          "code": "14",
+          "component": "Виробнича практика на робочому місці вчителя фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/187qHgQrdlt7ZGY9p8OWYKQVM00lcS2_S/view",
+          "program": "https://drive.google.com/file/d/1Q_8wW2NlkydntWhScQPcdr_wARDUehWK/view"
+        },
+        {
+          "code": "15",
+          "component": "Виробнича практика на робочому місці вчителя та керівника гуртка з фізичної культури",
+          "syllabus": "https://docs.google.com/document/d/1crOXaYwpCZWlu1nFLAxThWuGxfGabL3L/view",
+          "program": "https://drive.google.com/file/d/1QrnDc1w-vpY_hkOXxkgu0C4qTGqEC1ho/view"
+        }
+      ]
+    },
+    {
+      "trainingCategory": "АТЕСТАЦІЯ",
+      "trainingComponents": [
+        {
+          "code": "16",
+          "component": "Захист кваліфікаційної роботи",
+          "syllabus": "https://docs.google.com/document/d/1Ku1lxZutr7psFMt4DJOv-OFDcQeJ-djZ/view",
+          "program": "https://drive.google.com/file/d/17DM2WL5eKSvWb7pvaPhU3JEyuySQDhtc/view"
+        },
+        {
+          "code": "17",
+          "component": "Кваліфікаційний іспит",
+          "syllabus": "https://docs.google.com/document/d/1KSX6m5a2pRWlIyjIF47inXagIYEq-18U/view",
+          "program": "https://drive.google.com/file/d/1fARpcDjXaheKXEs6Lrs2K6QaL3FiFGJj/view"
+        }
+      ]
+    }
+  ]
+}

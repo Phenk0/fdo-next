@@ -1,0 +1,138 @@
+{
+  "preschoolPractices": [
+    {
+      "title": "Наскрізні програми практик 2024-2025н.р.",
+      "practices": [
+        {
+          "id": "1",
+          "title": "Дошкільна освіта та логопедія",
+          "link": ""
+        }
+      ]
+    },
+    {
+      "title": "Наскрізні програми практик 2023-2024н.р.",
+      "practices": [
+        {
+          "id": "1",
+          "title": "Дошкільна освіта та логопедія",
+          "link": ""
+        },
+        {
+          "id": "2",
+          "title": "Дошкільна освіта та психологія",
+          "link": ""
+        },
+        {
+          "id": "3",
+          "title": "Дошкільна освіта та початкова освіта",
+          "link": ""
+        },
+        {
+          "id": "4",
+          "title": "Дошкільна освіта та фізична культура",
+          "link": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/discipline%2Fpractices%2Fprograms%2F012%2FEnd-to-end_practice_programme_OPP_Preschool_education_and_physical_culture.pdf?alt=media"
+        },
+        {
+          "id": "5",
+          "title": "Дошкільна освіта та мова і література (англійська)",
+          "link": ""
+        }
+      ]
+    }
+  ],
+  "physicalPractices": {
+    "practicesBachelor2025": [
+      {
+        "id": 1,
+        "name": "Педагогічна практика (безвідривна)",
+        "syllabus": "https://drive.google.com/file/d/1CqFRvyVYsyzAF1uoXp8e4GKOfN0TT-et/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/1k17T3s3ohjNE_cKZcor8MI3c7rKbKaWr/view?usp=drive_link"
+      },
+      {
+        "id": 2,
+        "name": "Педагогічна практика в дитячих закладах оздоровлення та відпочинку",
+        "syllabus": "https://drive.google.com/file/d/1_BChbUKoPnENmBnNhoEW-er0Bs8a1MIX/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/1vNcne_34T3IwUqAMo3fSBBz__MQeb7Ry/view?usp=drive_link"
+      },
+      {
+        "id": 3,
+        "name": "Виробнича педагогічна практика",
+        "syllabus": "https://drive.google.com/file/d/10VJ1Jl0853yaFXgURi5KVYEdMCYQS8XN/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/1CvDUyG4UD17cRs2hmQl6ee7kFWlWw4KF/view?usp=drive_link"
+      },
+      {
+        "id": 4,
+        "name": "Виробнича практика на робочому місці вчителя фізичної культури",
+        "syllabus": "https://drive.google.com/file/d/1yym0n7_zaThD8v3yZE22VXvxeKsW4Lks/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/10ibsb6LEFSJ6wly2RNl6o3a8xIwZDhd6/view?usp=drive_link"
+      }
+    ],
+    "practicesBachelor2026": [
+      {
+        "id": 1,
+        "name": "Педагогічна практика (безвідривна)",
+        "syllabus": "https://drive.google.com/file/d/12K2etRQhTk7H3AFsIFjbXFz94jyXNHdb/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/1OmuHAKQ73pwor-TGf8nIziu6TQXqiewT/view?usp=drive_link"
+      },
+      {
+        "id": 2,
+        "name": "Педагогічна практика в дитячих закладах оздоровлення та відпочинку",
+        "syllabus": "https://drive.google.com/file/d/1XfU-JY9US3ItbF9bY445fBNuCzbaQmXe/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/1Ezrtb86wqJxtmGbqW_MhDyUH5pKdTCst/view?usp=drive_link"
+      },
+      {
+        "id": 3,
+        "name": "Виробнича педагогічна практика",
+        "syllabus": "https://drive.google.com/file/d/18QCv-0ZOC72r1yXqswkfyfliqSWcZx6b/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/1y_l2sQZbcE4VVxdZlAXK1izpz8f7kgP8/view?usp=drive_link"
+      },
+      {
+        "id": 4,
+        "name": "Виробнича практика на робочому місці вчителя фізичної культури",
+        "syllabus": "https://drive.google.com/file/d/11zF2g-3uHcrP9v7u8OEtG4YcXNG8rEpZ/view?usp=drive_link",
+        "program": "https://drive.google.com/file/d/1d2dzFZNeWs99E6ecGgjphod4iS1APLgB/view?usp=drive_link"
+      }
+    ],
+    "practicesMaster2025": [
+      {
+        "id": 1,
+        "name": "Науково-дослідницька практика (написання магістерської роботи)",
+        "syllabus": "https://docs.google.com/document/d/1ikdi0IIFj_m9ddBlswT0lBm22bSxhXCe/view",
+        "program": "https://drive.google.com/file/d/1oArwcynyCioQo2zhGToYDSti4pVWDrPV/view"
+      },
+      {
+        "id": 2,
+        "name": "Виробнича практика на робочому місці вчителя фізичної культури",
+        "syllabus": "https://docs.google.com/document/d/1btEYpm7MuqRqR_g6fuctRp7UR8w630UL/view",
+        "program": "https://drive.google.com/file/d/1Z5Kq7Zv0hrD1kpgEhBFM-D8pEj1d-GTP/view"
+      },
+      {
+        "id": 3,
+        "name": "Виробнича практика на робочому місці вчителя та керівника гуртка з фізичної культури",
+        "syllabus": "https://docs.google.com/document/d/1FbRfJaIibRzQlndjEm2mPz1Xu1asDiIU/view",
+        "program": "https://drive.google.com/file/d/1d4-QQkzBsqDEpHnRuG3wOXSX8iX5NaQs/view"
+      }
+    ],
+    "practicesMaster2026": [
+      {
+        "id": 1,
+        "name": "Науково-дослідницька практика з написання магістерської роботи (безвідривна)",
+        "syllabus": "https://drive.google.com/file/d/1IRKU5a27FRVXAn7_9bo-KNgQDz0GNaH8/view",
+        "program": "https://drive.google.com/file/d/1s2yic2ZPSqbCSbMUXjh-wWsdwb3MWNK0/view"
+      },
+      {
+        "id": 2,
+        "name": "Виробнича практика на робочому місці вчителя фізичної культури",
+        "syllabus": "https://docs.google.com/document/d/1jAuVt8THTXr5Fytdr-mmy1NiJdk_e1b-/view",
+        "program": "https://drive.google.com/file/d/15J02VKEcy-dVXk17lbJXzY3iyhFCws4Y/view"
+      },
+      {
+        "id": 3,
+        "name": "Виробнича практика на робочому місці вчителя та керівника гуртка з фізичної культури",
+        "syllabus": "https://docs.google.com/document/d/1fnA_spCMbtcaC4xKy_ocF1-9WnhDDKgx/view",
+        "program": "https://drive.google.com/file/d/1XVvLqcADa8JszephrG8y8LepBvgQGUc3/view"
+      }
+    ]
+  }
+}

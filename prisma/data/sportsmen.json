@@ -1,0 +1,88 @@
+{
+  "sportsmenList": [
+    {
+      "name": "Болбот Денис",
+      "sportTitle": "МСУ з військово-спортивних багатоборств",
+      "qualification": "Срібний призер чемпіонату світу, бронзовий призер чемпіонату світу, багаторазовий чемпіон України з військово-спортивних багатоборств (розділ «Бойове двоборство»)",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FBolbotDenys.webp?alt=media"
+    },
+    {
+      "name": "Борисенко Юліана",
+      "sportTitle": "МСУ з лижних гонок",
+      "qualification": "Чемпіонка України, срібна призерка чемпіонату України з лижних гонок",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FBorysenkoYuliana.jpeg?alt=media"
+    },
+    {
+      "name": "Гладський Станіслав",
+      "sportTitle": "МСУ з дзюдо",
+      "qualification": "Чемпіон України серед кадетів, призер чемпіонату України до 23 років, багаторазовий чемпіон і призер всеукраїнських і міжнародних змагань",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FHladskiiStanislav.webp?alt=media"
+    },
+    {
+      "name": "Громак Діана",
+      "sportTitle": "КМСУ з біатлону",
+      "qualification": "Багаторазова чемпіонка і призерка чемпіонатів України з біатлону та лижних гонок",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FGromakDiana.webp?alt=media"
+    },
+    {
+      "name": "Денисенко Ксенія",
+      "sportTitle": "КМСУ з пауерліфтингу",
+      "qualification": "Віцечемпіонка світу, багаторазова чемпіонка України з пауерліфтингу",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FDenysenkoKseniia.webp?alt=media"
+    },
+    {
+      "name": "Індик Анна",
+      "sportTitle": "КМСУ з боксу",
+      "qualification": "Бронзова призерка Кубка України з еліти (до 40 років) (2023), бронзова призерка Чемпіонату України серед чоловіків і жінок віком до 22 років пам’яті Андрія Огородника (2024)",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FIndykAnna.webp?alt=media"
+    },
+    {
+      "name": "Кошель Анастасія",
+      "sportTitle": "Карате WADO",
+      "qualification": "Бронзова призерка чемпіонату Європи з карате WADO у категорії U21, бронзова призерка чемпіонату Європи з карате WADO у категорії командне куміте, бронзова призерка міжнародного турніру «KATANA CUP 2026», чемпіонка України серед школярів та студентів з карате",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FKoshelAnastasiia.webp?alt=media"
+    },
+    {
+      "name": "Лазуніна Анастасія",
+      "sportTitle": "КМСУ з художньої гімнастики",
+      "qualification": "Бронзова призерка чемпіонату України серед школярів, багаторазова чемпіонка Полтавської області",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FLazuninaAnastasiia.webp?alt=media"
+    },
+    {
+      "name": "Мамадов Карімджон",
+      "sportTitle": "МСУ з дзюдо",
+      "qualification": "Бронзовий призер чемпіонату України серед кадетів, бронзовий призер чемпіонату України до 23 років; багаторазовий чемпіон і призер всеукраїнських і міжнародних змагань",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FMamadovKarimdzhon.webp?alt=media"
+    },
+    {
+      "name": "Мороз Андрій",
+      "sportTitle": "КМСУ з біатлону",
+      "qualification": "Срібний призер чемпіонату України серед юніорів з біатлону, багаторазовий чемпіон і призер чемпіонатів України з біатлону та лижних гонок",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FMorozAndrii.webp?alt=media"
+    },
+    {
+      "name": "Мусійчук Крістіна",
+      "sportTitle": "КМСУ з дзюдо, КМСУ з Combat Ju-Jutsu",
+      "qualification": "Бронзова призерка чемпіонату Європи з Combat Ju-Jutsu (2025), чемпіонка України (2020) та дворазова срібна призерка чемпіонату України (2021), переможниця Кубку України (2025) з Combat Ju-Jutsu; бронзова призерка чемпіонату України з дзюдо (2018); срібна призерка чемпіонату України, переможниця Кубку України з сумо (2018); чемпіонка та срібна призерка чемпіонату України з боротьби кураш (2018)",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FMusiichukKristina.webp?alt=media"
+    },
+    {
+      "name": "Рудь Олександра",
+      "sportTitle": "КМСУ з художньої гімнастики",
+      "qualification": "Багаторазова призерка Чемпіонатів України, багаторазова чемпіонка Полтавської області. Суддя міжнародної категорії. Тренер з художньої гімнастики",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FRudOleksandra.webp?alt=media"
+    },
+    {
+      "name": "Соколов Владислав",
+      "sportTitle": "МСУ з баскетболу 3х3, КМСУ з баскетболу 5х5",
+      "qualification": "Чемпіон України з баскетболу 3х3, призер дитячої Євроліги; призер чемпіонату України з баскетболу 5х5",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FSokolovVladyslav.webp?alt=media"
+    },
+    {
+      "name": "Уваров Артем",
+      "sportTitle": "КМСУ з військово-спортивних багатоборств",
+      "qualification": "Чемпіон світу, бронзовий призер чемпіонату Європи, бронзовий призер чемпіонату України з військово-спортивних багатоборств (розділ «Бойове двоборство»)",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fsportsmen%2FUvarovArtem.webp?alt=media"
+    }
+  ]
+}

@@ -1,0 +1,1012 @@
+{
+  "psychology_c4": [
+    {
+      "code": "ЗД-106",
+      "cipher": "Здоровий спосіб життя",
+      "points": 175,
+      "reviews": "https://drive.google.com/drive/folders/1e06wMm__ppv8fECROv23IuqduB9fYjCC?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-121",
+      "cipher": "Психологічне благополуччя",
+      "points": 173,
+      "reviews": "https://drive.google.com/drive/folders/1mAGczRvtqTf247-iJLwu1tEUObAJ_JVp?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-29",
+      "cipher": "Флексибільна особистість",
+      "points": 169,
+      "reviews": "https://drive.google.com/drive/folders/13glSTj4zzJ4ayUT8Gjb7uyqJ7WkWZwmG?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-33",
+      "cipher": "Суїцид ВПО",
+      "points": 168,
+      "reviews": "https://drive.google.com/drive/folders/16P4KfhYJgedzWGP5yLiHyDsVgLKSeHY9?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-125",
+      "cipher": "Тривожність молоді",
+      "points": 164,
+      "reviews": "https://drive.google.com/drive/folders/1UiG4tioVVoXlxS7XfamWqcnEBFiruHSq?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-107",
+      "cipher": "Культура здоров’я",
+      "points": 162,
+      "reviews": "https://drive.google.com/drive/folders/18pkSKWbvAtF-RlGGXjsK2SXBVmhxU6aZ?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-7",
+      "cipher": "Батьківсько-дитячі відносини",
+      "points": 161,
+      "reviews": "https://drive.google.com/drive/folders/19trcEfct7tu0-vxyqINpcVBoNIsCL3xg?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-133",
+      "cipher": "Селфхарм",
+      "points": 161,
+      "reviews": "https://drive.google.com/drive/folders/1Wdgtzc4MzB0-2ZO-IMjkxJ7Wmr2-MAjc?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-47",
+      "cipher": "Онлайн-ідентичність",
+      "points": 160,
+      "reviews": "https://drive.google.com/drive/folders/1JEFS7ovO2nbIY2FrdDP4Va9qA56-zPuj?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-85",
+      "cipher": "Етнопсихологічний портрет",
+      "points": 157,
+      "reviews": "https://drive.google.com/drive/folders/16wGGZNOS_ER7dJ3bUFXplVkk1vSdTFBd?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-102",
+      "cipher": "Розлад харчової поведінки і соціальні мережі",
+      "points": 157,
+      "reviews": "https://drive.google.com/drive/folders/18MAdlkHA3ZPnQLpMn7TtDutRaeyWlq1s?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-25",
+      "cipher": "Підтримка та витримка",
+      "points": 157,
+      "reviews": "https://drive.google.com/drive/folders/1ZKByiSqIrwlU7HWion1f0dq0EtegVao0?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-8",
+      "cipher": "Емоційний інтелект",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1IFYTxKun0a8uKE0hLxzAtKdwotItkgpQ?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-101",
+      "cipher": "Протидія булінгу",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1TApVw237QFrgM5_r_OYUizMUJWRoZw3O?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-93",
+      "cipher": "Психосоматика і депресія",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/10Yh7yfEbiNP1tD-XJNE5dG682RNdDedB?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-73",
+      "cipher": "C4 Психологія",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1Bm3ggQtNZLwZgMvsymr1j-ShtspDQfHb?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-54",
+      "cipher": "Дитяче ожиріння",
+      "points": 153,
+      "reviews": "https://drive.google.com/drive/folders/1GHJU8vKduvmPQrjM24kQkiDyN14lfxYH?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-110",
+      "cipher": "Резильєнтність підлітків",
+      "points": 152,
+      "reviews": "https://drive.google.com/drive/folders/1LrQ9qxMMWl3vxpyTLRrBn7Xhq8FSPfUs?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-132",
+      "cipher": "Вектор серця",
+      "points": 151,
+      "reviews": "https://drive.google.com/drive/folders/1q4KybhAxW6pbnWa88h8To8tX79IzbWPd?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-61",
+      "cipher": "Конфлікти",
+      "points": 151,
+      "reviews": "https://drive.google.com/drive/folders/1zD4yq5YDpABYP7V3bl8sXkfSZkZulMbW?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-41",
+      "cipher": "Ментальна аптечка",
+      "points": 150,
+      "reviews": "https://drive.google.com/drive/folders/1t8V_pT3huSFLSMFthWe1qEHfl4JXm-7G?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-81",
+      "cipher": "Увага юнаків",
+      "points": 150,
+      "reviews": "https://drive.google.com/drive/folders/1HrcIrf9CcxMMXPl3HtkKoYwaGYAvr661?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-50",
+      "cipher": "Здорове користування",
+      "points": 149,
+      "reviews": "https://drive.google.com/drive/folders/1JlRTPBSo-0aJ1Ppe6l3BuxKJyP7pXl0v?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-108",
+      "cipher": "Травма",
+      "points": 148,
+      "reviews": "https://drive.google.com/drive/folders/1HYXAHRRojyJHPdmINsG9X9hmurXxZSx3?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-5",
+      "cipher": "Психічний розвиток",
+      "points": 146,
+      "reviews": "https://drive.google.com/drive/folders/1MHMTHZceiTNVvHI0_c4rFDTCsCBYwiwI?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-120",
+      "cipher": "Ресурс адаптації",
+      "points": 144,
+      "reviews": "https://drive.google.com/drive/folders/1IEGt27qbZQEK-d3Jj2Zr1gx8nGQhxUCZ?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-3",
+      "cipher": "Психологічний супровід",
+      "points": 138,
+      "reviews": "https://drive.google.com/drive/folders/1nQhfP96xUPh5GUXo5GNlYZ4Rmlu0UexR?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-4",
+      "cipher": "ООП",
+      "points": 132,
+      "reviews": "https://drive.google.com/drive/folders/1UE5Caq4w3NWmYP04r4hfTM0H10AaEJYH?usp=sharing",
+      "isRed": false
+    }
+  ],
+  "special_a6": [
+    {
+      "code": "ЗД-21",
+      "cipher": "Інклюзивне навчання",
+      "points": 172,
+      "reviews": "https://drive.google.com/drive/folders/1uu3_5fkm4ERG2TSnaXmmwQsB6mC-xozp?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-74",
+      "cipher": "Ігрові технології",
+      "points": 171,
+      "reviews": "https://drive.google.com/drive/folders/1lOoV99dVfVFbM2S7dY98BZbWUJJO0OAD?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-114",
+      "cipher": "1ССС",
+      "points": 170,
+      "reviews": "https://drive.google.com/drive/folders/1zxQvEZm550YtuNAnr6_4597KGfZqxkDI?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-72",
+      "cipher": "Творча стабілізація",
+      "points": 162,
+      "reviews": "https://drive.google.com/drive/folders/1NBD_5zdsfhBZ7bGTXogJIvjrhkJVnw7K?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-36",
+      "cipher": "Міжособистісна взаємодія",
+      "points": 158,
+      "reviews": "https://drive.google.com/drive/folders/1TI_NJvaz66deM3nlOPtTBD4qj3uAIyp7?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-115",
+      "cipher": "Розмовляйко",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1TfatMxJSKYlLaSiX-kLPAWGPZt6_tL1G?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-71",
+      "cipher": "Казкотерапія мовлення",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1QtUImG-zi-Qu6XEcR01MDHQXM8MafzTS?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-78",
+      "cipher": "Арт-корекція тривоги",
+      "points": 154,
+      "reviews": "https://drive.google.com/drive/folders/1DTIz19PCg2zDK_AUbG5GX_4iXcYChhA_?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-39",
+      "cipher": "Ейдетика",
+      "points": 149,
+      "reviews": "https://drive.google.com/drive/folders/1LXXUMKxuRQWD_PG5lOekswexFuisTL3B?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-37",
+      "cipher": "Інноваційне виховання",
+      "points": 147,
+      "reviews": "https://drive.google.com/drive/folders/1O2haQQP4Wp3GZYGNasb-wRtztJvg_prw?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-62",
+      "cipher": "Мовлення і нейроігори",
+      "points": 146,
+      "reviews": "https://drive.google.com/drive/folders/19Uj0lFZTeRFlBX640qP5O8N-ghbhS2KY?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-19",
+      "cipher": "Велика Британія",
+      "points": 144,
+      "reviews": "https://drive.google.com/drive/folders/1sek_tmpbnbRUjePKDzC-0eA6KbIGE00Q?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-100",
+      "cipher": "Нейровправи",
+      "points": 142,
+      "reviews": "https://drive.google.com/drive/folders/1nCmFWPJGo2sO90zQRk-Gl2vlSmqqchG2?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-142",
+      "cipher": "Рух і мовлення",
+      "points": 136,
+      "reviews": "https://drive.google.com/drive/folders/18xMBL3K4HVGAS6yINcYxQA2NB1C-44n9?usp=sharing",
+      "isRed": false
+    }
+  ],
+  "preschool_a3": [
+    {
+      "code": "ЗД-118",
+      "cipher": "Арттерапевтичні технології",
+      "points": 182,
+      "reviews": "https://drive.google.com/drive/folders/1HaU2FGJ60S8IofOBMK3RFvJlvmWpFR2G?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-1",
+      "cipher": "ШІ",
+      "points": 181,
+      "reviews": "https://drive.google.com/drive/folders/1l17FXQaXfNEbsEZSpBkHxjsxIfTZ2nYI?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-129",
+      "cipher": "Палаюче серце",
+      "points": 176,
+      "reviews": "https://drive.google.com/drive/folders/1FX8HVySWUB3Mq9yQ61u0EYAoepIlvK_R?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-64",
+      "cipher": "Дитяча резильєнтність",
+      "points": 160,
+      "reviews": "https://drive.google.com/drive/folders/1caCBWRNFEhkUWL2UNNzbCjdObWia2ev5?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-88",
+      "cipher": "Нейрорух",
+      "points": 153,
+      "reviews": "https://drive.google.com/drive/folders/1wGPZTIXfX8pABuYLqsapwlUK5m6ljwOb?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-119",
+      "cipher": "Нейропедагогічний підхід",
+      "points": 152,
+      "reviews": "https://drive.google.com/drive/folders/1XDppW2JvOd1QErPzV59qZ7g34b1TG_BN?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-59",
+      "cipher": "Фізкультура",
+      "points": 146,
+      "reviews": "https://drive.google.com/drive/folders/1XTM87ZTSc3jVrt-1wWJFcUBYx6n95iux?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-6",
+      "cipher": "Жвавчик",
+      "points": 142,
+      "reviews": "https://drive.google.com/drive/folders/1MgpeeW5Kb7u5wCn3trUOjXoK2xEKiksw?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-2",
+      "cipher": "ІЦЗН",
+      "points": 135,
+      "reviews": "https://drive.google.com/drive/folders/1t31FbRxoeB_fT1gPI7EAG3eZ4PuZs-r3?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-84",
+      "cipher": "Дистанційне навчання",
+      "points": 126,
+      "reviews": "https://drive.google.com/drive/folders/1VxmEVm1Lst7CipT2ry0b0ficmWnIM7nB?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-10",
+      "cipher": "Стежини здоровʼя",
+      "points": 119,
+      "reviews": "https://drive.google.com/drive/folders/1RgnJrD9rs8QEFbZ1-KDhPwSEldgHagcI?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-86",
+      "cipher": "Батьківське ставлення",
+      "points": 117,
+      "reviews": "https://drive.google.com/drive/folders/1767Y2PRNHe-nlELP-_y7E0DQoWLteNBm?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-76",
+      "cipher": "Дитячий світ 5",
+      "points": 100,
+      "reviews": "https://drive.google.com/drive/folders/1UL8hmAVGQZ8IjNa4XfjDNNx0XmHFPm6L?usp=sharing",
+      "isRed": false
+    }
+  ],
+  "physical_a7": [
+    {
+      "code": "ЗД-51",
+      "cipher": "Тренер-гра",
+      "points": 186,
+      "reviews": "https://drive.google.com/drive/folders/1vy_D5wIwnHImSXpPvJ8InoREO7fbliHq?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-23",
+      "cipher": "StretchWing",
+      "points": 181,
+      "reviews": "https://drive.google.com/drive/folders/1gI4qToTnCKWPyLHrxoYmdVr5QD8txr7q?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-24",
+      "cipher": "Діти з ООП",
+      "points": 176,
+      "reviews": "https://drive.google.com/drive/folders/1-byxSintOGBdtrjlNAe4iAMxtMM_HnJQ?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-14",
+      "cipher": "Стрітлфітинг",
+      "points": 169,
+      "reviews": "https://drive.google.com/drive/folders/1vMJdm5et3pFbPgVv-eLeYVk7d_iDgC07?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-20",
+      "cipher": "Дитячий світ 2",
+      "points": 164,
+      "reviews": "https://drive.google.com/drive/folders/1kld0290iKm23ZWSaz4xwH9RijOnsuyHW?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-105",
+      "cipher": "Спортивний туризм",
+      "points": 162,
+      "reviews": "https://drive.google.com/drive/folders/1HkHu2z5rNjDdUHJuBTi_OiGuAFAnOUBy?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-91",
+      "cipher": "Здорова Україна",
+      "points": 162,
+      "reviews": "https://drive.google.com/drive/folders/12MskBtGPL2h3EGld94m42xu6JZIdDEfO?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-30",
+      "cipher": "Підготовка борців вільного стилю",
+      "points": 161,
+      "reviews": "https://drive.google.com/drive/folders/1jXQK-mEZzlM83aw8BqK7P9s7OJQS_RGK?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-57",
+      "cipher": "VR та фізична активність",
+      "points": 160,
+      "reviews": "https://drive.google.com/drive/folders/1_J9p43E8oC86EUphQtf01-pgMfab5gqO?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-134",
+      "cipher": "Новий Олімп",
+      "points": 160,
+      "reviews": "https://drive.google.com/drive/folders/1U--fopPPJQknWenGs1G53JlCw72e18Qf?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-28",
+      "cipher": "Cybersport psyhology",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1dSSSTc4ZJRzB1QIPPcobP0WUP_7dv4nG?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-52",
+      "cipher": "DataVolley",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1CWYHDZaLeVWFNKVbbg6GT_JIHY6se3Bq?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-80",
+      "cipher": "Алтимат фризбі",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1YwkmYG5EQezv-Q1QYsbzamizADruBpvi?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-97",
+      "cipher": "Фітнес технології",
+      "points": 155,
+      "reviews": "https://drive.google.com/drive/folders/1ZXJ42KSGFu5GhTRHiAokbKjM-KvDWRHX?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-22",
+      "cipher": "Розумова діяльність",
+      "points": 154,
+      "reviews": "https://drive.google.com/drive/folders/1SV__PM77gfZXAH-omELor5Rw6DoJg8S3?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-63",
+      "cipher": "Спортивна гімнастика",
+      "points": 154,
+      "reviews": "https://drive.google.com/drive/folders/16TpibQ0YlJANxPlRs1mg6tCYfWaKTmGk?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-31",
+      "cipher": "Військово-прикладна фізична підготовка",
+      "points": 153,
+      "reviews": "https://drive.google.com/drive/folders/1t0Z8ImWNptEEPAwpmbFywB99ZztoXLCr?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-18",
+      "cipher": "Координація рухів",
+      "points": 150,
+      "reviews": "https://drive.google.com/drive/folders/13GeMXRhwLBNqzzDsZ5AvDDG6GvbG7Y4s?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-49",
+      "cipher": "Розминка в спорті",
+      "points": 149,
+      "reviews": "https://drive.google.com/drive/folders/1G104YZaesdkoeee7qJEOnD68hzIGwHMD?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-27",
+      "cipher": "DOTA2",
+      "points": 149,
+      "reviews": "https://drive.google.com/drive/folders/1FI1JlmuE9EkvaV8V7jRkvBH557tEAAxC?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-128",
+      "cipher": "Сила руху",
+      "points": 148,
+      "reviews": "https://drive.google.com/drive/folders/1b4MYxY4GvW-KGV-Hyu9D9PfvFovyMdDH?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-43",
+      "cipher": "ТТ підготовка",
+      "points": 145,
+      "reviews": "https://drive.google.com/drive/folders/1piw_PAoEKPqsTk9Ezra3Q3xypoG8Mp8Q?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-58",
+      "cipher": "Fartlek energy",
+      "points": 144,
+      "reviews": "https://drive.google.com/drive/folders/1zdadIicTBpnZfe9enaaGtyw7OWgflyBp?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-137",
+      "cipher": "Smart Training",
+      "points": 144,
+      "reviews": "https://drive.google.com/drive/folders/1NLGZ06G6qnJNb9QDNVH2jYN56L4zt5Mh?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-56",
+      "cipher": "Марафон здоров’я",
+      "points": 143,
+      "reviews": "https://drive.google.com/drive/folders/1s3mQBzj0Odii71dhQNqKCfPESSyX-Ruc?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-136",
+      "cipher": "SportTech",
+      "points": 142,
+      "reviews": "https://drive.google.com/drive/folders/1v86QiC1OOr27qf0D8MMwXcM9-b6qmzWx?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-124",
+      "cipher": "Оздоровчий волейбол",
+      "points": 142,
+      "reviews": "https://drive.google.com/drive/folders/1FmvGKmfyz91AjAtxs6ikoUiwQubah1iC?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-135",
+      "cipher": "Спорт-життя",
+      "points": 140,
+      "reviews": "https://drive.google.com/drive/folders/1vB-YeqMuaslw0no4MBxhkc2qUX_qHVhr?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-143",
+      "cipher": "Мотивація",
+      "points": 140,
+      "reviews": "https://drive.google.com/drive/folders/13RxKR76D6qWIuQOdqv9_o-qv_dxzTgVZ?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-79",
+      "cipher": "Рух і здоров’я",
+      "points": 138,
+      "reviews": "https://drive.google.com/drive/folders/1C1tc58YBLPqbx8nk9FYKrxo9vh6GRjHu?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-113",
+      "cipher": "РЮЛА1304",
+      "points": 137,
+      "reviews": "https://drive.google.com/drive/folders/1nO4uWfOAOqORpjVLr1wcb_j01ZqTWpnc?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-112",
+      "cipher": "ТОТВ1304",
+      "points": 136,
+      "reviews": "https://drive.google.com/drive/folders/1mH9IO5bFTnOTb7HL_AbaFm82dIMrjEry?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-55",
+      "cipher": "Гімнастика спортивна",
+      "points": 128,
+      "reviews": "https://drive.google.com/drive/folders/1Ufz5mGiNrz-7OxyzdQTfezMv-YnVaHql?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-87",
+      "cipher": "Здорове дитинство",
+      "points": 120,
+      "reviews": "https://drive.google.com/drive/folders/1rRm9cP0cGnXyuYWoe0QNTy3uJwbmH9Dx?usp=sharing",
+      "isRed": false
+    }
+  ],
+  "physical_a4": [
+    {
+      "code": "ЗД-131",
+      "cipher": "Fitball-Skipping",
+      "points": 183,
+      "reviews": "https://drive.google.com/drive/folders/1FcnReYUKVftLp4yF7ONkGtD-RDLuCtF_?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-116",
+      "cipher": "Емоційний стан",
+      "points": 181,
+      "reviews": "https://drive.google.com/drive/folders/1CPn4t8O57U1w4sMtWHuOcXzvGhkPJWzF?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-104",
+      "cipher": "Бочча інклюзія",
+      "points": 172,
+      "reviews": "https://drive.google.com/drive/folders/1w-mPYY3IEahdFOKFGVMExCwtDqiXvBA5?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-111",
+      "cipher": "Швидкісні здібності",
+      "points": 171,
+      "reviews": "https://drive.google.com/drive/folders/1z0pamZ3t5tF3seu2danNR69eG_BViCGa?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-11",
+      "cipher": "Дитячий світ 1",
+      "points": 167,
+      "reviews": "https://drive.google.com/drive/folders/1akHoVjq6g8cqYf2-Gmm48J3830InpsYS?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-75",
+      "cipher": "Майстер-клас для танцюристів",
+      "points": 166,
+      "reviews": "https://drive.google.com/drive/folders/1iN3O2uR8c8txElcObNLA9OO0od6G6HUb?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-35",
+      "cipher": "Йога vs гнучкість",
+      "points": 164,
+      "reviews": "https://drive.google.com/drive/folders/18QelSrYvvbVbSScNt27qw81lq6fShnDr?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-46",
+      "cipher": "Партер",
+      "points": 163,
+      "reviews": "https://drive.google.com/drive/folders/1a0FRf2Px0HGvQBhKDKPvEyQSoCXvR5sb?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-98",
+      "cipher": "Кросфіт",
+      "points": 160,
+      "reviews": "https://drive.google.com/drive/folders/1qka4zSLj6BdJ_FnwhjGdmGapBxYcSE_E?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-60",
+      "cipher": "Стрибуче дитинство під час війни",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1uns5nW15DLg2d141GNc2A9OXCOXc1KJT?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-40",
+      "cipher": "Фізичне виховання",
+      "points": 155,
+      "reviews": "https://drive.google.com/drive/folders/1faWKXyj-QyY4DyCMlQ8O_JiUDiqRdSEs?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-126",
+      "cipher": "Здоров’я і школа",
+      "points": 152,
+      "reviews": "https://drive.google.com/drive/folders/1CG3dTW9ss921yGdwY5E_Ka8G3zqB-xVv?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-117",
+      "cipher": "Варіативний модуль",
+      "points": 152,
+      "reviews": "https://drive.google.com/drive/folders/1QWHxYDISCQcLHs5SowyGgzJ1jYh-Twhg?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-26",
+      "cipher": "Технології здоров'я",
+      "points": 150,
+      "reviews": "https://drive.google.com/drive/folders/1knWzfvHue7mEn93Ys6IIqFG5FQIWP-W8?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-65",
+      "cipher": "Піщаний ритм",
+      "points": 150,
+      "reviews": "https://drive.google.com/drive/folders/1X_H6QaSuZWgsLM5DiH_prYZCRPdD43LK?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-90",
+      "cipher": "Рухливі ігри",
+      "points": 149,
+      "reviews": "https://drive.google.com/drive/folders/1L5F38yLrsdhGy3R-74HyrH1u3gdD94og?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-103",
+      "cipher": "Техніка орієнтування",
+      "points": 148,
+      "reviews": "https://drive.google.com/drive/folders/1uwfA2Q-G2CfvgKeJN0Z0DmuJqK8C4gXR?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-89",
+      "cipher": "Шкільний баскетбол",
+      "points": 147,
+      "reviews": "https://drive.google.com/drive/folders/1kfA0eJwU_voTb7kRDLT78mgNU1y8Nm37?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-139",
+      "cipher": "НУШ",
+      "points": 146,
+      "reviews": "https://drive.google.com/drive/folders/1DO6PjQ067I1nOZxo7Xj5ye2kEEFyo-Pi?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-53",
+      "cipher": "Активне здоров’я",
+      "points": 145,
+      "reviews": "https://drive.google.com/drive/folders/15H6yWNOfN9LHCZwiTyOcu3PWMOhX8OQA?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-138",
+      "cipher": "Самостійні заняття",
+      "points": 144,
+      "reviews": "https://drive.google.com/drive/folders/1UadVn8fPT98IrM3sWpC5zGZs_0vkShcQ?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-13",
+      "cipher": "Музична гра",
+      "points": 143,
+      "reviews": "https://drive.google.com/drive/folders/18ppbQfmcOQC-B9dzdRpWnslrRSgm5msa?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-95",
+      "cipher": "Фізкультурно-оздоровча активність",
+      "points": 142,
+      "reviews": "https://drive.google.com/drive/folders/15ZGUDuS5CBPMDJzyLkEFJPJS55wKBdxK?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-42",
+      "cipher": "Рухова активність",
+      "points": 141,
+      "reviews": "https://drive.google.com/drive/folders/1yNknr6JjhMsEU9cvwaKVBnMmSpv_n8BV?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-66",
+      "cipher": "Підходи до оцінювання",
+      "points": 141,
+      "reviews": "https://drive.google.com/drive/folders/1EpAhsH_Qa2w9hJYj0-vxQrZvP9SnlVGX?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-67",
+      "cipher": "ФК-Освіта ЄС",
+      "points": 141,
+      "reviews": "https://drive.google.com/drive/folders/1EpAhsH_Qa2w9hJYj0-vxQrZvP9SnlVGX?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-140",
+      "cipher": "Здоров’я",
+      "points": 141,
+      "reviews": "https://drive.google.com/drive/folders/1IRrZel6ee-hnDr0NYUNyjnDZHAnfNmwF?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-68",
+      "cipher": "Компетентне навчання",
+      "points": 139,
+      "reviews": "https://drive.google.com/drive/folders/1hfImx_D3dmUB4KjEv8Jj7W6zE_P9UshE?usp=sharing",
+      "isRed": false
+    }
+  ],
+  "preschool_a2": [
+    {
+      "code": "ЗД-38",
+      "cipher": "Цінності здоров’я",
+      "points": 189,
+      "reviews": "https://drive.google.com/drive/folders/1XtOIqaetWvc3n9mgCxr9_1by0kHpQe7k?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-123",
+      "cipher": "Розвиток координації дошкільників",
+      "points": 177,
+      "reviews": "https://drive.google.com/drive/folders/1BsaIEdv6pmJk77x2i-Tuyxd985MA1DmY?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-12",
+      "cipher": "Гармонія відчуттів",
+      "points": 165,
+      "reviews": "https://drive.google.com/drive/folders/1CCdK4A0x9f8Gw8wSwvEpwSNmxQohHTtG?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-69",
+      "cipher": "Дитячий світ 4",
+      "points": 164,
+      "reviews": "https://drive.google.com/drive/folders/1LpaXuoFDfjqQO4CpMUikcx9Z2teGEeRH?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-96",
+      "cipher": "Намисто емоцій",
+      "points": 162,
+      "reviews": "https://drive.google.com/drive/folders/1bkr9SQ6-WdAkGL7PrtgjQNTcL3TOu82t?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-34",
+      "cipher": "Правильна постава",
+      "points": 156,
+      "reviews": "https://drive.google.com/drive/folders/1DxMePNCHH3V5zi9TuF-q_Jfq3OM-mb3E?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-99",
+      "cipher": "Дитячий світ 6",
+      "points": 154,
+      "reviews": "https://drive.google.com/drive/folders/1G7YcNTes75mJsNNDl2l6Av-lTMubwu6Z?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-109",
+      "cipher": "Дитинство в русі",
+      "points": 149,
+      "reviews": "https://drive.google.com/drive/folders/15GIuwquYq5gf05HstL6E4I9sw4v2dyqn?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-141",
+      "cipher": "Диференціація",
+      "points": 142,
+      "reviews": "https://drive.google.com/drive/folders/1xHjHclhHXEDjNjFidhlk1PGjOQdl5En0?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-32",
+      "cipher": "«Рух і Лічба»",
+      "points": 136,
+      "reviews": "https://drive.google.com/drive/folders/1Ea3_oT2ZXYFDbc0D62nSxv6SKwkbzmES?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-48",
+      "cipher": "Дитячий світ 3",
+      "points": 135,
+      "reviews": "https://drive.google.com/drive/folders/1MfgkYHlZDvWjJheA42p-gqBR2knPJSvN?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-17",
+      "cipher": "Л2І0З0А6",
+      "points": 131,
+      "reviews": "https://drive.google.com/drive/folders/1jRHUfBxwnR9hLhdwWF4llxIFD5D4yQCU?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-122",
+      "cipher": "Оберіг здоров'я",
+      "points": 128,
+      "reviews": "https://drive.google.com/drive/folders/1ZVIpol_ARm8wBfw7h2Khw_pcfP1c-cPK?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-15",
+      "cipher": "А2Т0ОН0ІНА3",
+      "points": 119,
+      "reviews": "https://drive.google.com/drive/folders/19ptqsvIt-P3FCEY0U1oSn1M9rKWDJ6of?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-16",
+      "cipher": "АЛ2ЬБ0І2Н6А",
+      "points": 109,
+      "reviews": "https://drive.google.com/drive/folders/16RbHl_zgL2Oyk4MBDj_7UaXSBG2th8g2?usp=sharing",
+      "isRed": false
+    }
+  ],
+  "social_i10": [
+    {
+      "code": "ЗД-94",
+      "cipher": "Бастіон здоров’я",
+      "points": 172,
+      "reviews": "https://drive.google.com/drive/folders/1FeXEg5dYYjfmGjJRtVoZbObndSga70LK?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-45",
+      "cipher": "Гейткіпер",
+      "points": 135,
+      "reviews": "https://drive.google.com/drive/folders/1Jm4KBgIwPAJRdJKZ9I9pNjDMBjXG6hYs?usp=sharing",
+      "isRed": false
+    }
+  ],
+  "professional_a5": [
+    {
+      "code": "ЗД-127",
+      "cipher": "Цінності ЄС",
+      "points": 182,
+      "reviews": "https://drive.google.com/drive/folders/1bTimtOls8zL6u88dOWH4y5LARF4MVBX3?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-70",
+      "cipher": "Цифрове здоров’я",
+      "points": 173,
+      "reviews": "https://drive.google.com/drive/folders/1oaBBvKNZBCp-tkvRyIna3vQXj0VzowrS?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-83",
+      "cipher": "Метрошкола",
+      "points": 167,
+      "reviews": "https://drive.google.com/drive/folders/1YL-jinrahpMZc7hFfmVQxyNYGv1mQt6l?usp=sharing",
+      "isRed": true
+    },
+    {
+      "code": "ЗД-77",
+      "cipher": "Бар’єр",
+      "points": 158,
+      "reviews": "https://drive.google.com/drive/folders/1NbL1faAcCWK0wE9UUtZmtPZbbWJUo0gP?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-9",
+      "cipher": "Подвійний бар'єр",
+      "points": 157,
+      "reviews": "https://drive.google.com/drive/folders/1vubTZ8pHnJyLx3dgSNNdmBLfgcPU_AN1?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-82",
+      "cipher": "GESUNDHEIT",
+      "points": 155,
+      "reviews": "https://drive.google.com/drive/folders/1RMmdICtqGjo4QnipMoYUHaembDNOewr0?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-130",
+      "cipher": "Архітектоніка назламності",
+      "points": 150,
+      "reviews": "https://drive.google.com/drive/folders/1pplbhsPDZDxgVMK_i1mX1nET-MSX5vo_?usp=sharing",
+      "isRed": false
+    },
+    {
+      "code": "ЗД-92",
+      "cipher": "Стійкість",
+      "points": 147,
+      "reviews": "https://drive.google.com/drive/folders/1UfSZ2nmAB3sJjzslRjUEnTHgxLZlMqNo?usp=sharing",
+      "isRed": false
+    }
+  ]
+}

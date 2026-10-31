@@ -1,0 +1,52 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model News {
+  id        String     @id @default(cuid())
+  slug      String?    @unique
+  title     String?
+  content   Json
+  sourceUrl String?
+  status    NewsStatus @default(DRAFT)
+  tags      NewsTag[]  @default([])
+  createdAt DateTime
+  createdAt DateTime   @default(now())
+  // updatedAt DateTime   @updatedAt
+
+  @@index([status, createdAt])
+}
+
+enum NewsTag {
+  news
+  guest_lecture
+  practices
+  student_science_preschool
+  extracurricular
+  academic_mobility
+  accreditation
+  student_science_physical
+  entrants
+  zdzn_flow
+  dual
+  lego
+  pride
+  vacancies
+  war
+}
+
+enum NewsStatus {
+  DRAFT
+  PUBLISHED
+  ARCHIVED
+}

@@ -1,6 +1,9 @@
 {
   "name": "fdo-next",
-  "version": "0.1.0",
+  "description": "FDO Next Development",
+  "author": "Roman Parkhomenko <roman.s.parkhomenko@gmail.com>",
+  "url": "https://fdo-next.vercel.app/",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

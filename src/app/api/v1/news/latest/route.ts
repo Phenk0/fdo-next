@@ -15,6 +15,9 @@ export function OPTIONS(request: Request) {
 }
 
 export async function GET(request: NextRequest) {
+  const headers = getCorsHeaders(request);
+  headers.set("Cache-Control", "no-store");
+
   try {
     const recentNews = await prisma.news.findMany({
       where: {
@@ -32,10 +35,7 @@ export async function GET(request: NextRequest) {
             orderBy: [{ createdAt: "desc" }, { id: "desc" }],
             take: 5,
           });
-    return NextResponse.json(
-      { data: news },
-      { headers: getCorsHeaders(request) },
-    );
+    return NextResponse.json({ data: news }, { headers });
   } catch (error) {
     console.error("GET /api/v1/news/latest:", error);
 

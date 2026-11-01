@@ -10,13 +10,16 @@ export function OPTIONS(request: Request) {
 }
 
 const querySchema = z.object({
-  page: z.coerce.number().int().min(1).max(1_000_000).default(1),
+  page: z.coerce.number().int().min(1).max(191).default(1),
   limit: z.coerce.number().int().min(1).max(50).default(10),
   tag: z.enum(NewsTag).optional(),
 });
 
 export async function GET(request: NextRequest) {
   const params = Object.fromEntries(request.nextUrl.searchParams);
+
+  const headers = getCorsHeaders(request);
+  headers.set("Cache-Control", "no-store");
 
   const validation = querySchema.safeParse(params);
 
@@ -26,7 +29,7 @@ export async function GET(request: NextRequest) {
         error: "Invalid query parameters",
         details: z.treeifyError(validation.error),
       },
-      { status: 400 },
+      { status: 400, headers },
     );
   }
 
@@ -50,10 +53,6 @@ export async function GET(request: NextRequest) {
 
     const totalPages = Math.ceil(total / limit);
 
-    const headers = getCorsHeaders(request);
-
-    headers.set("Cache-Control", "no-store");
-
     return NextResponse.json(
       {
         data: news,
@@ -75,7 +74,7 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json(
       { error: "Failed to fetch news" },
-      { status: 500 },
+      { status: 500, headers },
     );
   }
 }

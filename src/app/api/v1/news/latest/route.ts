@@ -41,7 +41,7 @@ export async function GET(request: NextRequest) {
 
     return NextResponse.json(
       { error: "Failed to fetch latest news" },
-      { status: 500 },
+      { status: 500, headers },
     );
   }
 }

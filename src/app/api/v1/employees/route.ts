@@ -35,7 +35,7 @@ export async function GET(request: NextRequest) {
     const employees = await prisma.employee.findMany({
       where: {
         facultyProfile: {
-          is: { ...(department && { department }) },
+          department,
         },
       },
       select: {

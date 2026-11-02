@@ -49,3 +49,73 @@ enum NewsStatus {
   PUBLISHED
   ARCHIVED
 }
+
+enum Department {
+  KDPP
+  KTMDO
+  KTMFV
+}
+
+model Employee {
+  id       String  @id @default(uuid())
+  name     String
+  slug     String  @unique
+  photoUrl String?
+
+  emails String[] @default([])
+  phones String[] @default([])
+
+  facultyProfile FacultyProfile?
+  managerProfile ManagerProfile?
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+model FacultyProfile {
+  id         String   @id @default(uuid())
+  employeeId String   @unique
+  employee   Employee @relation(fields: [employeeId], references: [id], onDelete: Cascade)
+
+  department    Department
+  jobTitle      String
+  academicTitle String?
+
+  educationInfo     String[] @default([])
+  degreeInfo        String[] @default([])
+  dissertationTopic String[] @default([])
+  academicTitleInfo String[] @default([])
+  awardsAndHonors   String[] @default([])
+  supervisions      String[] @default([])
+
+  scientificWorksPDF String?
+  scientificWorksUrl String?
+
+  professionalActivities  String?
+  professionalDevelopment String[] @default([])
+
+  certificationInfo String?
+  certificates      String[] @default([])
+
+  // Social and academic profiles
+  googleAcademy String?
+  orcid         String?
+  WoSRID        String?
+  rGate         String?
+  scopusID      String?
+  bibliometrics String?
+  scienceUkr    String?
+
+  // Display order
+  sortOrder Int @default(0)
+
+  @@index([department, sortOrder])
+}
+
+model ManagerProfile {
+  id         String   @id @default(uuid())
+  employeeId String   @unique
+  employee   Employee @relation(fields: [employeeId], references: [id], onDelete: Cascade)
+
+  managerRole String
+}

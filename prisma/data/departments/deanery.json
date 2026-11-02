@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Дмитренко Аліна Павлівна",
+    "deaneryRole": "Декан факультету",
+    "academicTitle": "доктор філософії, доцент ",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/about%2Fktmdo%2Fdmitrenko-alina.webp?alt=media",
+    "phones": ["0999587792"],
+    "emails": ["dmytrenko@gnpu.edu.ua"],
+    "sortOrder": 1
+  },
+  {
+    "name": "Любива Віталіна Вячеславівна",
+    "deaneryRole": "Заступник декана з міжнародної і виховної роботи",
+    "academicTitle": "кандидат педагогічних наук, доцент",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/about%2Fdeanery%2Fliybiva.webp?alt=media",
+    "phones": ["0964189206"],
+    "emails": ["vitalion482@gmail.com"],
+    "sortOrder": 2
+  },
+  {
+    "name": "Коваленко Ольга Іванівна",
+    "deaneryRole": "Фахівець деканату",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/about%2Fdeanery%2Fkovalenko_o.webp?alt=media",
+    "phones": ["0508867900"],
+    "emails": ["dekanatfdo2020@gmail.com"],
+    "sortOrder": 3
+  }
+]

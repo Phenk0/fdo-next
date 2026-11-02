@@ -57,16 +57,17 @@ enum Department {
 }
 
 model Employee {
-  id       String  @id @default(uuid())
-  name     String
-  slug     String  @unique
-  photoUrl String?
+  id            String  @id @default(uuid())
+  name          String
+  slug          String  @unique
+  photoUrl      String?
+  academicTitle String?
 
   emails String[] @default([])
   phones String[] @default([])
 
   facultyProfile FacultyProfile?
-  managerProfile ManagerProfile?
+  deaneryProfile DeaneryProfile?
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -77,9 +78,8 @@ model FacultyProfile {
   employeeId String   @unique
   employee   Employee @relation(fields: [employeeId], references: [id], onDelete: Cascade)
 
-  department    Department
-  jobTitle      String
-  academicTitle String?
+  department Department
+  jobTitle   String
 
   educationInfo     String[] @default([])
   degreeInfo        String[] @default([])
@@ -112,10 +112,11 @@ model FacultyProfile {
   @@index([department, sortOrder])
 }
 
-model ManagerProfile {
+model DeaneryProfile {
   id         String   @id @default(uuid())
   employeeId String   @unique
   employee   Employee @relation(fields: [employeeId], references: [id], onDelete: Cascade)
 
-  managerRole String
+  deaneryRole String
+  sortOrder   Int    @default(0)
 }

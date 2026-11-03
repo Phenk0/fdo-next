@@ -18,7 +18,9 @@ export async function GET(request: NextRequest) {
         },
       },
       select: {
+        id: true,
         name: true,
+        slug: true,
         academicTitle: true,
         photoUrl: true,
         emails: true,

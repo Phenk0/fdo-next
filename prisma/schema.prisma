@@ -139,3 +139,42 @@ model Sportsman {
 
   @@unique([name, groupName])
 }
+
+enum Specialty {
+  preschool
+  physical
+}
+
+model Alumni {
+  id              String    @id @default(uuid())
+  name            String    @unique
+  yearOfEducation String
+  department      String
+  specialty       Specialty
+
+  workplace String?
+  jobTitle  String?
+  photoUrl  String?
+
+  phones String[] @default([])
+  emails String[] @default([])
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([specialty, name])
+}
+
+model AlumniReview {
+  id        String    @id @default(uuid())
+  name      String
+  text      String[]
+  photoUrl  String?
+  specialty Specialty
+  sortOrder Int
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([specialty, sortOrder])
+}

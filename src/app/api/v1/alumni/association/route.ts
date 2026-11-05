@@ -3,6 +3,7 @@ import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { Specialty } from "@/generated/prisma/enums";
 import { z } from "zod";
+import { Prisma } from "@/generated/prisma/client";
 
 export function OPTIONS(request: Request) {
   return createCorsPreflightResponse(request);
@@ -12,6 +13,7 @@ const querySchema = z.object({
   page: z.coerce.number().int().min(1).default(1),
   limit: z.coerce.number().int().min(1).max(50).default(10),
   specialty: z.enum(Specialty).optional(),
+  search: z.string().trim().optional(),
 });
 
 export async function GET(request: NextRequest) {
@@ -31,10 +33,20 @@ export async function GET(request: NextRequest) {
     );
   }
 
-  const { page, limit, specialty } = validation.data;
+  const { page, limit, specialty, search } = validation.data;
+
+  const where: Prisma.AlumniWhereInput = {
+    ...(specialty && { specialty }),
+    ...(search && {
+      name: {
+        contains: search,
+        mode: "insensitive",
+      },
+    }),
+  };
 
   try {
-    const total = await prisma.alumni.count({ where: { specialty } });
+    const total = await prisma.alumni.count({ where });
 
     const totalPages = Math.ceil(total / limit);
     if (page > totalPages && totalPages > 0) {
@@ -53,7 +65,7 @@ export async function GET(request: NextRequest) {
     }
 
     const alumni = await prisma.alumni.findMany({
-      where: { specialty },
+      where,
       orderBy: [{ name: "asc" }, { id: "asc" }],
       skip: (page - 1) * limit,
       take: limit,

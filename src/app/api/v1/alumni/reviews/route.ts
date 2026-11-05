@@ -54,7 +54,7 @@ export async function GET(request: NextRequest) {
 
     const alumniReviews = await prisma.alumniReview.findMany({
       where: { specialty },
-      orderBy: [{ sortOrder: "asc" }, { name: "asc" }],
+      orderBy: [{ sortOrder: "desc" }, { createdAt: "desc" }],
       skip: (page - 1) * limit,
       take: limit,
     });

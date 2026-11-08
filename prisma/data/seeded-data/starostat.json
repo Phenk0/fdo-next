@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Федотенко Альбіна Романівна",
+    "group": "11–ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Ffedotenko-albina.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Андрущенко Діана Сергіївна",
+    "group": "12-ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Fandruschenko-diana.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Лепешко Владислав Ігорович",
+    "group": "13–ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Flepeshko-vladislav.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Давиденко Вікторія Олександрівна",
+    "group": "22–ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Fdavidenko-viktoria.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Ликова Юлія Олександрівна",
+    "group": "21–ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Flykova-yuliia.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Пилипенко Тетяна Дмитрівна",
+    "group": "23–ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Fpylypenko-tetiana.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Неловкіна Ольга Геннадіївна",
+    "group": "32–ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Fnelovkina-olga.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Трясій Віталіна Андріївна",
+    "group": "42–ДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Ftriasii-vitalina.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Левашова Анна Сергіївна",
+    "group": "61 -МДП",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2Fpreschool-2023%2Flevashova-anna.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Поліщук Богдана Андріївна",
+    "group": "62-МДП",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F61-MDP.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Крючкова Тетяна Віталіївна",
+    "group": "62–2МДО",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F61-2MDO.webp?alt=media",
+    "specialty": "preschool"
+  },
+  {
+    "name": "Лісненко Поліна Андріївна",
+    "group": "12-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F12-fk.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Русакова Марія Олександрівна",
+    "group": "13-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F13-fk.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Денисенко Ксенія Олексіївна",
+    "group": "23-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F23-FK.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Громак Діана Дмитрівна",
+    "group": "24-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F24-FK.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Лазуніна Анастасія Олегівна",
+    "group": "33-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F33-FK.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Мусійчук Крістіна Ігорівна",
+    "group": "34-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F34-FK.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Рейдер Владислав Віталійович",
+    "group": "43-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F43-FK.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Цеханевич Михайло Романович",
+    "group": "6М-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F6m-fk.webp?alt=media",
+    "specialty": "physical"
+  },
+  {
+    "name": "Кузьмин Сергій Юрійович",
+    "group": "6М2-ФК",
+    "photoUrl": "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/student%2Fstarostat%2F6M2-FK.webp?alt=media",
+    "specialty": "physical"
+  }
+]

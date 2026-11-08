@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: prisma
   version: "0.2.0"
+disabled: true
 ---
 
 # Prisma MongoDB Upgrade Path

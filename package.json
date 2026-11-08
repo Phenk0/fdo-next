@@ -14,7 +14,7 @@
     "type": "tsc --noEmit",
     "postinstall": "prisma generate",
     "db:push": "prisma db push && prisma generate",
-    "prisma:seed": "tsx prisma/seed.ts",
+    "prisma:seed": "tsx prisma/seeds/seed.ts",
     "prisma:studio": "prisma studio"
   },
   "dependencies": {
@@ -27,7 +27,7 @@
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-simple-import-sort": "^14.0.0",
     "lucide-react": "^1.66.0",
-    "next": "16.4.3",
+    "next": "16.5.0-canary.39",
     "pg": "^8.23.1",
     "react": "19.3.0",
     "react-dom": "19.3.0",
@@ -58,6 +58,7 @@
   "allowScripts": {
     "prisma@7.10.1": true,
     "@prisma/engines@7.10.1": true,
-    "unrs-resolver@1.12.2": true
+    "unrs-resolver@1.12.2": true,
+    "esbuild@0.28.2": true
   }
 }

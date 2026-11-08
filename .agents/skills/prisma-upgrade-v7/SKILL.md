@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: prisma
   version: "7.6.0"
+disabled: true
 ---
 
 # Upgrade to Prisma ORM 7

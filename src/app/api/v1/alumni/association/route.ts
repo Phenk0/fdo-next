@@ -13,7 +13,7 @@ const querySchema = z.object({
   page: z.coerce.number().int().min(1).default(1),
   limit: z.coerce.number().int().min(1).max(50).default(10),
   specialty: z.enum(Specialty).optional(),
-  search: z.string().trim().optional(),
+  search: z.string().trim().max(100).optional(),
 });
 
 export async function GET(request: NextRequest) {

@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: prisma
   version: "2.3.1"
+disabled: true
 ---
 
 # Prisma Postgres setup

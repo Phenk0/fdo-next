@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: prisma
   version: "7.9.1"
+disabled: true
 ---
 
 # Prisma SQL Driver Adapter Implementation

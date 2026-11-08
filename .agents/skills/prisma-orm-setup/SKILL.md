@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: prisma
   version: "1.0.0"
+disabled: true
 ---
 
 # Prisma ORM setup

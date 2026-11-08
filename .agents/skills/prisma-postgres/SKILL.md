@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: prisma
   version: "8.0.0"
+disabled: true
 ---
 
 # Deprecated: prisma-postgres

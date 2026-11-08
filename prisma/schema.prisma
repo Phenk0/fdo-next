@@ -178,3 +178,43 @@ model AlumniReview {
 
   @@index([specialty, sortOrder])
 }
+
+model RegulationList {
+  id        String @id @default(uuid())
+  text      String @unique
+  url       String @unique
+  sortOrder Int    @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([sortOrder, text])
+}
+
+model Starostat {
+  id        String    @id @default(uuid())
+  name      String
+  group     String    @unique
+  photoUrl  String?
+  specialty Specialty
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([specialty, group])
+}
+
+model LocalGovernment {
+  id        String    @id @default(uuid())
+  name      String?
+  photoUrl  String?
+  specialty Specialty
+  role      String?
+  status    String?
+  sortOrder Int       @default(0)
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([specialty, sortOrder])
+}

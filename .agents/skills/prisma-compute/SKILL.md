@@ -5,6 +5,7 @@ license: MIT
 metadata:
   author: prisma
   version: "2.0.0"
+disabled: true
 ---
 
 # Prisma Compute

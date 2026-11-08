@@ -3,10 +3,23 @@
 import { LucideMoon, LucideSun } from "lucide-react";
 import { useTheme } from "next-themes";
 import { Button } from "@/components/ui/button";
+import { useEffect, useState } from "react";
 
 function ThemeSwitcher() {
   const { theme, setTheme } = useTheme();
+  const [mounted, setMounted] = useState(false);
 
+  useEffect(() => {
+    (() => setMounted(true))();
+  }, []);
+
+  if (!mounted) {
+    return (
+      <Button variant="outline" size="icon" disabled aria-label="Toggle theme">
+        <LucideSun className="size-4.5" />
+      </Button>
+    );
+  }
   const handleThemeChange = () =>
     setTheme(theme === "light" ? "dark" : "light");
 

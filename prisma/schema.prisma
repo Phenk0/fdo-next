@@ -35,6 +35,7 @@ enum NewsTag {
   academic_mobility
   accreditation
   student_science_physical
+  science_internship
   entrants
   zdzn_flow
   dual

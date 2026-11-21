@@ -2,8 +2,8 @@ import type { ReactNode } from "react";
 
 import { SiteHeader } from "@/components/layout/site-header";
 import { SiteFooter } from "@/components/layout/site-footer";
-import { NavigationDrawer } from "@/components/layout/navigation";
 import { CompactHeader } from "@/components/layout/compact-header";
+import { NavigationProvider } from "@/components/layout/navigation/navigation-provider";
 
 export default function SiteLayout({
   children,
@@ -11,16 +11,14 @@ export default function SiteLayout({
   children: ReactNode;
 }>) {
   return (
-    <>
+    <NavigationProvider>
       <SiteHeader />
       <CompactHeader />
       <div className="site-layout">
-        <NavigationDrawer />
-
         <main id="mail-content">{children}</main>
       </div>
 
       <SiteFooter />
-    </>
+    </NavigationProvider>
   );
 }

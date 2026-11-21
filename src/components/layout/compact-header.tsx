@@ -8,9 +8,11 @@ import Image from "next/image";
 import { siteConfig } from "@/config/site";
 import { ThemeSwitcher } from "@/components/theme/theme-switcher";
 import { cn } from "@/lib/utils";
+import { useNavigation } from "@/components/layout/navigation/navigation-provider";
 
 export function CompactHeader() {
   const [isVisible, setIsVisible] = useState(false);
+  const { openMenu } = useNavigation();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -22,8 +24,6 @@ export function CompactHeader() {
 
     return () => window.removeEventListener("scroll", handleScroll); // <- added
   }, []);
-
-  const onMenuClick = () => {};
 
   return (
     <div
@@ -42,7 +42,7 @@ export function CompactHeader() {
           variant="ghost"
           size="icon"
           aria-label="Відкрити меню"
-          onClick={onMenuClick}
+          onClick={openMenu}
         >
           <LucideMenu className="size-5" />
         </Button>

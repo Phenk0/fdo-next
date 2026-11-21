@@ -25,8 +25,8 @@ const links = [
     desc: "Дослідження та міжнародна діяльність",
   },
   {
-    title: "Оголошення",
-    href: "/announcements-all",
+    title: "Архів новин",
+    href: "/news-archive",
     desc: "Новини та події університету",
   },
 ];
@@ -40,7 +40,7 @@ export default function SitePage() {
           <br />
           імені Олександра Довженка
         </h1>
-        <p className="max-w-2xl text-lg text-muted-foreground">
+        <p className="max-w-2xl text-lg text-muted-foreground ">
           Освіта, наука та інновації для майбутнього. Ласкаво просимо на
           офіційний сайт університету.
         </p>

@@ -1,18 +1,17 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { Button } from "@/components/ui/button";
-import { LucideMenu } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
 import { siteConfig } from "@/config/site";
 import { ThemeSwitcher } from "@/components/theme/theme-switcher";
 import { cn } from "@/lib/utils";
-import { useNavigation } from "@/components/layout/navigation/navigation-provider";
+import { MenuButton } from "@/components/layout/site-header/menu-button";
+import { AsideTrigger } from "@/components/layout/site-content/site-aside/aside-trigger";
+import { routes } from "@/config/routes";
 
 export function CompactHeader() {
   const [isVisible, setIsVisible] = useState(false);
-  const { openMenu } = useNavigation();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -26,29 +25,21 @@ export function CompactHeader() {
   }, []);
 
   return (
-    <div
+    <header
       aria-hidden={!isVisible}
       inert={!isVisible}
       className={cn(
-        "fixed inset-x-0 top-0 z-50 border-b bg-background/95 shadow-sm backdrop-blur duration-300",
+        "fixed inset-x-0 top-0 z-50 border-b bg-background/90 shadow-sm backdrop-blur duration-300",
         isVisible
           ? "translate-y-0 opacity-100"
           : "-translate-y-full opacity-0 pointer-events-none",
+        "3xl:hidden",
       )}
     >
       <div className="mx-auto flex h-16 max-w-7xl items-center gap-3 px-4">
-        <Button
-          type="button"
-          variant="ghost"
-          size="icon"
-          aria-label="Відкрити меню"
-          onClick={openMenu}
-        >
-          <LucideMenu className="size-5" />
-        </Button>
-
+        <MenuButton ariaLabel="Відкрити меню" />
         <Link
-          href="/"
+          href={routes.home}
           aria-label={siteConfig.name.short}
           className="flex min-w-0 flex-1 items-center gap-3"
         >
@@ -64,14 +55,14 @@ export function CompactHeader() {
             <p className="truncate text-sm font-bold uppercase sm:text-base">
               {siteConfig.name.short}
             </p>
-            <p className="hidden truncate text-xs text-muted-foreground sm:block">
+            <p className="truncate text-xs text-muted-foreground">
               {siteConfig.university.short}
             </p>
           </div>
         </Link>
-
         <ThemeSwitcher />
+        <AsideTrigger />
       </div>
-    </div>
+    </header>
   );
 }

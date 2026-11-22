@@ -1,3 +1,5 @@
+import { routes } from "@/config/routes";
+
 export type NavigationItem = {
   title: string;
   href: string;
@@ -267,11 +269,11 @@ export const navigationItems = [
       },
       {
         title: "Наша гордість",
-        href: "/student/pride",
+        href: routes.alumni.honored,
       },
       {
         title: "Спортивна еліта університету",
-        href: "/student/sportsmen",
+        href: routes.student.sportsElite,
       },
     ],
   },

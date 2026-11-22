@@ -7,14 +7,15 @@ import {
   useState,
   type ReactNode,
 } from "react";
+import { useMediaQuery } from "@/hooks/use-media-query";
 
-import { NavigationDrawer } from "./navigation-drawer";
 import {
   Drawer,
   DrawerContent,
   DrawerDescription,
   DrawerTitle,
 } from "@/components/ui/drawer";
+import { NavigationDrawer } from "./navigation-drawer";
 
 type NavigationContextValue = {
   openMenu: () => void;
@@ -25,6 +26,7 @@ const NavigationContext = createContext<NavigationContextValue | null>(null);
 
 export function NavigationProvider({ children }: { children: ReactNode }) {
   const [isOpen, setIsOpen] = useState(false);
+  const is3xlNavigation = useMediaQuery("(width < 1800px)");
 
   const openMenu = useCallback(() => setIsOpen(true), []);
   const closeMenu = useCallback(() => setIsOpen(false), []);
@@ -32,19 +34,18 @@ export function NavigationProvider({ children }: { children: ReactNode }) {
   return (
     <NavigationContext.Provider value={{ openMenu, closeMenu }}>
       {children}
+      {is3xlNavigation && (
+        <Drawer swipeDirection="left" open={isOpen} onOpenChange={setIsOpen}>
+          <DrawerContent>
+            <DrawerTitle className="sr-only">Навігація сайту</DrawerTitle>
+            <DrawerDescription className="sr-only">
+              Основні розділи сайту факультету
+            </DrawerDescription>
 
-      <Drawer swipeDirection="left" open={isOpen} onOpenChange={setIsOpen}>
-        <DrawerContent
-          className="data-[swipe-direction=left]:h-full data-[swipe-direction=left]:w-[min(85vw,320px)] data-[swipe-direction=left]:max-w-[320px] data-[swipe-direction=left]:rounded-none p-0" // <- changed: navigation panel sizing
-        >
-          <DrawerTitle className="sr-only">Навігація сайту</DrawerTitle>
-          <DrawerDescription className="sr-only">
-            Основні розділи сайту факультету
-          </DrawerDescription>
-
-          <NavigationDrawer />
-        </DrawerContent>
-      </Drawer>
+            <NavigationDrawer />
+          </DrawerContent>
+        </Drawer>
+      )}
     </NavigationContext.Provider>
   );
 }

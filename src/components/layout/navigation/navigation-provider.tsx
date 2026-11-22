@@ -6,6 +6,7 @@ import {
   useContext,
   useState,
   type ReactNode,
+  Suspense,
 } from "react";
 import { useMediaQuery } from "@/hooks/use-media-query";
 
@@ -42,7 +43,9 @@ export function NavigationProvider({ children }: { children: ReactNode }) {
               Основні розділи сайту факультету
             </DrawerDescription>
 
-            <NavigationDrawer />
+            <Suspense fallback={null}>
+              <NavigationDrawer />
+            </Suspense>
           </DrawerContent>
         </Drawer>
       )}

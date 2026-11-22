@@ -1,4 +1,4 @@
-import type { ReactNode } from "react";
+import { ReactNode, Suspense } from "react";
 import { NavigationDrawer } from "@/components/layout/navigation/navigation-drawer";
 import { cn } from "@/lib/utils";
 import { SiteAside } from "@/components/layout/site-content/site-aside/site-aside";
@@ -26,7 +26,9 @@ export function SiteLayout({ children }: SiteLayoutProps) {
             drawerScrollbarStyles,
           )}
         >
-          <NavigationDrawer />
+          <Suspense fallback={null}>
+            <NavigationDrawer />
+          </Suspense>
         </aside>
 
         <main id="main-content" className="min-w-0">
@@ -34,7 +36,9 @@ export function SiteLayout({ children }: SiteLayoutProps) {
         </main>
 
         <aside className={cn("hidden", "md:block md:min-w-0")}>
-          <SiteAside />
+          <Suspense fallback={null}>
+            <SiteAside />
+          </Suspense>
         </aside>
       </div>
     </div>

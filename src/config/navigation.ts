@@ -1,4 +1,5 @@
 import { routes } from "@/config/routes";
+import { Department } from "@/generated/prisma/enums";
 
 export type NavigationItem = {
   title: string;
@@ -9,149 +10,149 @@ export type NavigationItem = {
 export const navigationItems = [
   {
     title: "Про факультет",
-    href: "/about",
+    href: routes.about.index,
     children: [
       {
         title: "Деканат",
-        href: "/about/deanery",
+        href: routes.about.deanery,
       },
       {
         title: "Кафедри",
-        href: "/about/departments",
+        href: routes.about.departments.index,
         children: [
           {
             title: "Кафедра дошкільної педагогіки і психології",
-            href: "/about/departments/kdpp",
+            href: routes.about.departments.department(Department.KDPP),
           },
           {
             title: "Кафедра теорії і методики дошкільної освіти",
-            href: "/about/departments/ktmdo",
+            href: routes.about.departments.department(Department.KTMDO),
           },
           {
             title: "Кафедра теорії і методики фізичного виховання",
-            href: "/about/departments/ktmfv",
+            href: routes.about.departments.department(Department.KTMFV),
           },
         ],
       },
       {
         title: "Вчена рада",
-        href: "/about/academic-council-personnel",
+        href: routes.about.academicCouncilPersonnel,
       },
       {
         title: "Нормативні документи",
-        href: "/about/regulations",
+        href: routes.about.regulations,
       },
       {
         title: "Рада стейкхолдерів",
-        href: "/about/stakeholders",
+        href: routes.about.stakeholders.index,
         children: [
           {
             title: "Склад ради стейкхолдерів",
-            href: "/about/stakeholders/personnel",
+            href: routes.about.stakeholders.personnel,
           },
           {
             title: "План роботи ради стейкхолдерів",
-            href: "/about/stakeholders/plan",
+            href: routes.about.stakeholders.plan,
           },
           {
             title: "Положення про раду стейкхолдерів",
-            href: "/about/stakeholders/provisions",
+            href: routes.about.stakeholders.provisions,
           },
         ],
       },
       {
         title: "Профорієнтаційна робота",
-        href: "/about/proforientation",
+        href: routes.about.proforientation,
       },
       {
         title: "Матеріально-технічна база",
-        href: "/about/mtb",
+        href: routes.about.mtb,
       },
     ],
   },
   {
     title: "Навчання",
-    href: "/discipline",
+    href: routes.discipline.index,
     children: [
       {
         title: "Графік освітнього процесу",
-        href: "/discipline/educational-schedule",
+        href: routes.discipline.educationalSchedule,
       },
       {
         title: "Розклад атестації здобувачів освіти",
-        href: "/discipline/examination",
+        href: routes.discipline.examination.index,
         children: [
           {
             title: "Розклад підсумкової атестації",
-            href: "/discipline/examination/attestation-schedule",
+            href: routes.discipline.examination.attestationSchedule,
           },
           {
             title: "Розклад проміжної атестації",
-            href: "/discipline/examination/intermediate-attestation-schedule",
+            href: routes.discipline.examination.intermediateAttestationSchedule,
           },
           {
             title: "Розклад заліково-екзаменаційної сесії",
-            href: "/discipline/examination/session-schedule",
+            href: routes.discipline.examination.sessionSchedule,
           },
         ],
       },
       {
         title: "Освітні програми",
-        href: "/discipline/programs",
+        href: routes.discipline.programs.index,
       },
       {
         title: "Нормативні ОК",
-        href: "/discipline/regulatory-ok",
+        href: routes.discipline.regulatoryOk,
       },
       {
         title: "Вибіркові ОК",
-        href: "/discipline/selective-ok",
+        href: routes.discipline.selectiveOk,
       },
       {
         title: "Дуальна освіта",
-        href: "/discipline/dual",
+        href: routes.discipline.dual,
       },
       {
         title: "Неформальна освіта",
-        href: "/discipline/non-formal-education",
+        href: routes.discipline.nonFormalEducation,
       },
       {
         title: "Академічна мобільність",
-        href: "/discipline/academic-mobility",
+        href: routes.discipline.academicMobility,
       },
       {
         title: "Практична підготовка",
-        href: "/discipline/practices",
+        href: routes.discipline.practices.index,
         children: [
           {
             title: "Новини педагогічної практики",
-            href: "/discipline/practices/news",
+            href: routes.discipline.practices.news,
           },
           {
             title: "Програми педагогічних практик",
-            href: "/discipline/practices/programs",
+            href: routes.discipline.practices.programs,
           },
           {
             title: "Угоди з базами практик",
-            href: "/discipline/practices/agreements",
+            href: routes.discipline.practices.agreements,
           },
         ],
       },
       {
         title: "Результати атестації",
-        href: "/discipline/results-attestation",
+        href: routes.discipline.resultsAttestation.index,
         children: [
           {
             title: "Результати проміжної атестації",
-            href: "/discipline/results-attestation/pre",
+            href: routes.discipline.resultsAttestation.intermediate,
           },
           {
             title: "Результати семестрової атестації",
-            href: "/discipline/results-attestation/semi",
+            href: routes.discipline.resultsAttestation.semester,
           },
           {
             title: "Результати підсумкової атестації",
-            href: "/discipline/results-attestation/final",
+            href: routes.discipline.resultsAttestation.final,
           },
         ],
       },
@@ -159,47 +160,47 @@ export const navigationItems = [
   },
   {
     title: "Наука",
-    href: "/science",
+    href: routes.science.index,
     children: [
       {
         title: "Науково-дослідні лабораторії",
-        href: "/science/research",
+        href: routes.science.research.index,
         children: [
           {
             title: "Інноваційні спортивно-педагогічні технології",
-            href: "/science/research/sport-lab",
+            href: routes.science.research.sportLab.index,
             children: [
               {
                 title: "Професорсько-викладацький склад лабораторії",
-                href: "/science/research/sport-lab/personnel",
+                href: routes.science.research.sportLab.personnel,
               },
               {
-                title: "План  роботи лабораторії",
-                href: "/science/research/sport-lab/plan",
+                title: "План роботи лабораторії",
+                href: routes.science.research.sportLab.plan,
               },
               {
                 title:
                   "Звіт про діяльність науково-дослідної лабораторії за минулий рік",
-                href: "/science/research/sport-lab/report",
+                href: routes.science.research.sportLab.report,
               },
             ],
           },
           {
             title: "Здоров'я дитини",
-            href: "/science/research/child-health",
+            href: routes.science.research.childHealth.index,
             children: [
               {
                 title: "Професорсько-викладацький склад лабораторії",
-                href: "/science/research/child-health/personnel",
+                href: routes.science.research.childHealth.personnel,
               },
               {
-                title: "План  роботи лабораторії",
-                href: "/science/research/child-health/plan",
+                title: "План роботи лабораторії",
+                href: routes.science.research.childHealth.plan,
               },
               {
                 title:
                   "Звіт про діяльність науково-дослідної лабораторії за минулий рік",
-                href: "/science/research/child-health/report",
+                href: routes.science.research.childHealth.report,
               },
             ],
           },
@@ -207,65 +208,65 @@ export const navigationItems = [
       },
       {
         title: "Міжнародна діяльність",
-        href: "/science/international",
+        href: routes.science.international.index,
         children: [
           {
-            title: "Еразмус+, модуль  Жан Моне",
-            href: "/science/international/jean-monnet",
+            title: "Еразмус+, модуль Жан Моне",
+            href: routes.science.international.jeanMonnet,
           },
           {
             title: "Стажування",
-            href: "/science/international/internship",
+            href: routes.science.international.internship,
           },
         ],
       },
       {
         title: "Співпраця з громадськими організаціями. Реалізація проєктів",
-        href: "/science/project-implementation",
+        href: routes.science.projectImplementation,
       },
     ],
   },
   {
     title: "Здобувачам освіти",
-    href: "/student",
+    href: routes.student.index,
     children: [
       {
         title: "Студентське самоврядування",
-        href: "/student/local-government",
+        href: routes.student.localGovernment,
       },
       {
         title: "Старостат",
-        href: "/student/starostat",
+        href: routes.student.starostat,
       },
       {
         title: "Рейтинг успішності",
-        href: "/student/rating",
+        href: routes.student.rating,
       },
       {
         title: "Студентська наука",
-        href: "/student/science",
+        href: routes.student.science,
       },
       {
         title: "«Здорова дитина – здорова нація»",
-        href: "/student/science-project-contest-zdzn",
+        href: routes.student.scienceProjectContestZdzn.index,
         children: [
           {
             title: "Положення про конкурс, оголошення",
-            href: "/student/science-project-contest-zdzn/news-regulation",
+            href: routes.student.scienceProjectContestZdzn.newsRegulation,
           },
           {
             title: "Реєстрація учасників конкурсу",
-            href: "/student/science-project-contest-zdzn/registration",
+            href: routes.student.scienceProjectContestZdzn.registration,
           },
           {
             title: "Перебіг конкурсного відбору",
-            href: "/student/science-project-contest-zdzn/flow",
+            href: routes.student.scienceProjectContestZdzn.flow,
           },
         ],
       },
       {
         title: "Позанавчальна робота",
-        href: "/student/extracurricular",
+        href: routes.student.extracurricular,
       },
       {
         title: "Наша гордість",
@@ -279,15 +280,11 @@ export const navigationItems = [
   },
   {
     title: "Вступникам",
-    href: "/entrants",
+    href: routes.entrants.index,
     children: [
       {
         title: "Вступ для здобуття освіти іноземцям та особам без громадянства",
-        href: "/entrants/introduction",
-      },
-      {
-        title: "TESTing Page",
-        href: "/entrants/rules",
+        href: routes.entrants.introduction,
       },
     ],
   },

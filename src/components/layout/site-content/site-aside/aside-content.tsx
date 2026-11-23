@@ -13,18 +13,18 @@ export function AsideContent() {
           ДИТИНА – ЗДОРОВА НАЦІЯ»"
       >
         <AsideInternalLink
-          href={routes.student.scienceProjectContest.regulation}
+          href={routes.student.scienceProjectContestZdzn.newsRegulation}
         >
           Положення про конкурс, оголошення
         </AsideInternalLink>
 
         <AsideInternalLink
-          href={routes.student.scienceProjectContest.registration}
+          href={routes.student.scienceProjectContestZdzn.registration}
         >
           Реєстрація учасників конкурсу
         </AsideInternalLink>
 
-        <AsideInternalLink href={routes.student.scienceProjectContest.flow}>
+        <AsideInternalLink href={routes.student.scienceProjectContestZdzn.flow}>
           Перебіг конкурсного відбору
         </AsideInternalLink>
       </AsideCard>
@@ -100,7 +100,7 @@ export function AsideContent() {
 
       <AsideCard
         title="ВНУТРІШНЯ СИСТЕМА ЗАБЕЗПЕЧЕННЯ ЯКОСТІ ОСВІТИ"
-        titleLink={routes.discipline.programs}
+        titleLink={routes.discipline.programs.index}
       >
         <AsideExternalLink
           href="https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/aside%2Fquality-questionnaries%2Fquestionnaires-for-bachelors-masters.pdf?alt=media"

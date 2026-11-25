@@ -53,7 +53,7 @@ export function AsideProvider({ children }: { children: ReactNode }) {
             </div>
           </DrawerContent>
         </Drawer>
-      )}{" "}
+      )}
     </AsideContext.Provider>
   );
 }

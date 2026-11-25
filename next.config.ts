@@ -12,6 +12,19 @@ const nextConfig: NextConfig = {
       },
     },
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "firebasestorage.googleapis.com",
+        port: "",
+        // pathname: "/v0/b/fdo-gnpu.appspot.com/o/",
+      },
+      new URL(
+        "https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/**",
+      ),
+    ],
+  },
 };
 
 export default nextConfig;

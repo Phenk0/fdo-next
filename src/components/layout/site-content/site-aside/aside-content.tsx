@@ -2,6 +2,8 @@ import { AsideCard } from "@/components/layout/site-content/site-aside/aside-car
 import { routes } from "@/config/routes";
 import { AsideExternalLink } from "@/components/layout/site-content/site-aside/aside-external-link";
 import { AsideInternalLink } from "@/components/layout/site-content/site-aside/aside-internal-link";
+import { VideoPlayer } from "@/components/shared/media/video-player";
+import { YouTubeEmbed } from "@/components/shared/media/youtube-embed";
 
 export function AsideContent() {
   return (
@@ -40,35 +42,22 @@ export function AsideContent() {
         <h3 className="text-center text-base my-2">
           Презентація факультету від здобувачів освіти та випускників
         </h3>
-        <h4 className="bg-amber-200">HERE WILL BE VIDEO PLAYER</h4>
-        {/*  <ReactPlayer*/}
-        {/*    width="100%"*/}
-        {/*    height="auto"*/}
-        {/*    controls*/}
-        {/*    playing={true}*/}
-        {/*    light={*/}
-        {/*      <img*/}
-        {/*        src="https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/aside%2Fentrants%2Fintroductory-campaign-thumbnail.webp?alt=media"*/}
-        {/*        alt="Thumbnail"*/}
-        {/*      />*/}
-        {/*    }*/}
-        {/*    url="https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/aside%2Fentrants%2Fintroductory-campaign.mp4?alt=media"*/}
-        {/*  />*/}
+        <VideoPlayer
+          src="https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/aside%2Fentrants%2Fintroductory-campaign.mp4?alt=media"
+          poster="https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/aside%2Fentrants%2Fintroductory-campaign-thumbnail.webp?alt=media"
+          title="Презентація факультету від здобувачів освіти та випускників"
+        />
         <hr />
         <h3 className="text-center text-base my-2">
           Запрошуємо на навчання за спеціальністю А4 11 Середня освіта Фізична
           культура
         </h3>
-        <div className="relative w-full pt-[56.25%]">
-          <iframe
-            src="https://www.youtube.com/embed/h4rHVyXehmc"
-            title="Запрошуємо на навчання за спеціальністю А4 11 Середня освіта Фізична культура"
-            frameBorder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-            allowFullScreen
-            className="absolute top-0 left-0 w-full h-full"
-          />
-        </div>
+        <YouTubeEmbed
+          videoId="h4rHVyXehmc"
+          poster="https://firebasestorage.googleapis.com/v0/b/fdo-gnpu.appspot.com/o/aside%2Fentrants%2Ffdo-fk-invitation-poster.webp?alt=media"
+          title="Запрошуємо на навчання за спеціальністю А4 11 Середня освіта
+        Фізична культура"
+        />
       </AsideCard>
 
       <AsideCard title="ЗДОБУВАЧУ ОСВІТИ">

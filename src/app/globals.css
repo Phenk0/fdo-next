@@ -51,6 +51,7 @@ body {
   --radius-3xl: calc(var(--radius) * 2.2);
   --radius-4xl: calc(var(--radius) * 2.6);
 
+  --breakpoint-xs: 26.5rem;
   --breakpoint-3xl: 112.5rem;
   --breakpoint-4xl: 120rem;
 }

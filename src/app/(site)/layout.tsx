@@ -1,7 +1,7 @@
 import type { ReactNode } from "react";
 
 import { SiteHeader } from "@/components/layout/site-header/site-header";
-import { SiteFooter } from "@/components/layout/site-footer";
+import { SiteFooter } from "@/components/layout/site-footer/site-footer";
 import { SiteLayout } from "@/components/layout/site-content/site-layout";
 import { CompactHeader } from "@/components/layout/site-header/compact-header";
 import { NavigationProvider } from "@/components/layout/navigation/navigation-provider";

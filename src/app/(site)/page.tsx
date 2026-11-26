@@ -7,6 +7,10 @@ import {
   CardTitle,
 } from "@/components/ui/card";
 import Link from "next/link";
+import { NewsSection } from "@/components/home/news-section";
+import { AboutShortSection } from "@/components/home/about-short-section";
+import { ExploreSection } from "@/components/home/explore-section";
+import { Suspense } from "react";
 
 const links = [
   {
@@ -34,6 +38,14 @@ const links = [
 export default function SitePage() {
   return (
     <main className="flex flex-1 flex-col">
+      <Suspense
+        fallback={<div className="h-64 animate-pulse rounded-lg bg-muted" />}
+      >
+        <NewsSection />
+      </Suspense>
+      <AboutShortSection />
+      <ExploreSection />
+
       <section className="flex flex-col items-center justify-center gap-6 py-24 px-6 text-center bg-gradient-to-b from-zinc-50 to-white dark:from-zinc-900 dark:to-black">
         <h1 className="text-4xl font-bold tracking-tight sm:text-5xl">
           Глухівський національний педагогічний університет

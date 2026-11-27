@@ -14,7 +14,7 @@ datasource db {
 
 model News {
   id        String     @id @default(cuid())
-  slug      String?    @unique
+  slug      String     @unique
   title     String?
   content   Json
   sourceUrl String?

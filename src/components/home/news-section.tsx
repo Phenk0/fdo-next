@@ -7,6 +7,7 @@ import { cn } from "@/lib/utils";
 import { getHomeNews } from "@/features/news/queries/get-home-news";
 import { NewsCard } from "@/components/home/news-card";
 import { Button } from "@/components/ui/button";
+import { scrollbarStyles } from "@/lib/styles/scrollbar";
 
 export async function NewsSection() {
   const news = await getHomeNews();
@@ -50,7 +51,12 @@ export async function NewsSection() {
 
       {/* Horizontal row below xl: starts with article 2 */}
       {news.length > 1 && (
-        <div className="flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden xl:hidden">
+        <div
+          className={cn(
+            "flex snap-x snap-mandatory gap-3 overflow-x-auto pb-2 xl:hidden",
+            scrollbarStyles,
+          )}
+        >
           {news.slice(1).map((item) => (
             <NewsCard
               key={item.id}
@@ -63,7 +69,12 @@ export async function NewsSection() {
 
       {/* Horizontal row at xl: starts with article 3 */}
       {news.length > 2 && (
-        <div className="hidden snap-x snap-mandatory gap-3 overflow-x-auto pb-2 [scrollbar-width:none] [&::-webkit-scrollbar]:hidden xl:flex">
+        <div
+          className={cn(
+            "hidden xl:flex snap-x snap-mandatory gap-3 overflow-x-auto pb-3",
+            scrollbarStyles,
+          )}
+        >
           {news.slice(2).map((item) => (
             <NewsCard
               key={item.id}

@@ -1,3 +1,4 @@
 export default function MapPage() {
-  return <div></div>;
+  //TODO: SITE MAP
+  return <div>SITE MAP PAGE</div>;
 }

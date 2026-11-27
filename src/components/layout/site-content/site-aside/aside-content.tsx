@@ -154,11 +154,6 @@ export function AsideContent() {
           Спортивна еліта університету
         </AsideInternalLink>
       </AsideCard>
-
-      <AsideCard title="ЯК НАС ЗНАЙТИ">
-        {/*TODO: map*/}
-        <h3 className="bg-amber-200">HERE WILL BE A MAP</h3>
-      </AsideCard>
     </div>
   );
 }

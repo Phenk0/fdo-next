@@ -11,6 +11,7 @@ export async function getHomeNews() {
     tags: { has: NewsTag.news },
   };
 
+  //TODO: SELECT ONLY NECESSARY DATA
   const recentNews = await prisma.news.findMany({
     where: {
       ...where,

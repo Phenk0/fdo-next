@@ -4,6 +4,7 @@ import "./globals.css";
 import { NuqsAdapter } from "nuqs/adapters/next/app";
 import { ThemeProvider } from "@/components/theme/theme-provider";
 import { cn } from "@/lib/utils";
+import { scrollbarStyles } from "@/lib/styles/scrollbar";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -38,7 +39,12 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         "h-full antialiased",
       )}
     >
-      <body className="min-h-full flex flex-col 4xl:bg-secondary [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-transparent [&::-webkit-scrollbar-thumb]:bg-muted-foreground [&::-webkit-scrollbar-thumb:hover]:bg-foreground [&::-webkit-scrollbar-thumb]:rounded-full [&::-webkit-scrollbar-button]:hidden">
+      <body
+        className={cn(
+          "min-h-full flex flex-col 4xl:bg-secondary",
+          scrollbarStyles,
+        )}
+      >
         <NuqsAdapter>
           <ThemeProvider>{children}</ThemeProvider>
         </NuqsAdapter>

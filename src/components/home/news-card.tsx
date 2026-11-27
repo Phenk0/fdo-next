@@ -5,8 +5,26 @@ import { cn } from "@/lib/utils";
 import { newsContentSchema } from "@/features/news/schemas/news-content.schema";
 import Image from "next/image";
 import { ImageIcon } from "lucide-react";
+import { getDate } from "@/lib/get-date";
 
 type NewsItem = Awaited<ReturnType<typeof getHomeNews>>[number];
+
+function getPlainText(markdown: string) {
+  return markdown
+    .replace(/\\([\\`*_{}\[\]()#+\-.!>])/g, "$1") // <- unescape Markdown
+    .replace(/!\[([^\]]*)\]\([^)]*\)/g, "$1") // <- images: keep alt text
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, "$1") // <- links: keep link text
+    .replace(/^#{1,6}\s+/gm, "") // <- headings
+    .replace(/^\s*>\s?/gm, "") // <- blockquotes
+    .replace(/^\s*[-*+]\s+/gm, "") // <- unordered lists
+    .replace(/^\s*\d+\.\s+/gm, "") // <- ordered lists
+    .replace(/(\*\*|__)(.*?)\1/g, "$2") // <- bold
+    .replace(/(\*|_)(.*?)\1/g, "$2") // <- italic
+    .replace(/~~(.*?)~~/g, "$1") // <- strikethrough
+    .replace(/`([^`]+)`/g, "$1") // <- inline code
+    .replace(/\s+/g, " ")
+    .trim();
+}
 
 export function NewsCard({
   news,
@@ -22,14 +40,16 @@ export function NewsCard({
 
   const image = blocks.find((block) => block.type === "imageGallery")
     ?.images[0];
-  const description = blocks.find((block) => block.type === "paragraph")?.text;
+  const description = getPlainText(
+    blocks.find((block) => block.type === "paragraph")?.text ?? "",
+  );
 
   const cardContent = (
     <>
       <div
         className={cn(
           "relative overflow-hidden rounded-lg bg-muted",
-          featured ? "aspect-[16/7]" : "aspect-[16/9]",
+          featured ? "aspect-16/7" : "aspect-16/9",
         )}
       >
         {image ? (
@@ -53,11 +73,7 @@ export function NewsCard({
           dateTime={news.createdAt.toISOString()}
           className="text-xs text-muted-foreground"
         >
-          {new Intl.DateTimeFormat("uk-UA", {
-            day: "numeric",
-            month: "long",
-            year: "numeric",
-          }).format(news.createdAt)}
+          {getDate(news.createdAt)}
         </time>
 
         {news.title && (
@@ -83,16 +99,12 @@ export function NewsCard({
 
   return (
     <article className={cn("min-w-0", className)}>
-      {news.slug ? (
-        <Link
-          href={routes.news.article(news.slug)}
-          className="group block space-y-2"
-        >
-          {cardContent}
-        </Link>
-      ) : (
-        <div className="group space-y-2">{cardContent}</div>
-      )}
+      <Link
+        href={routes.news.article(news.slug)}
+        className="group block space-y-2"
+      >
+        {cardContent}
+      </Link>
     </article>
   );
 }
